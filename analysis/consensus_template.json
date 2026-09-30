@@ -1,0 +1,2790 @@
+{
+  "method": "rebuild_consensus_from_cache.py \u2014 local-Do cents, octave-folded degree match",
+  "min_artists": 2,
+  "octave_fold": true,
+  "do_stats": {
+    "nariman": {
+      "seed": 266.2,
+      "median_do": 265.3189705405649,
+      "std_cents": 2.2549847561418233,
+      "range_cents": 9.38235031149334,
+      "n_tracks_used": 18,
+      "n_tracks_skipped": 2,
+      "n_strikes": 5954,
+      "do_mode": "per_track"
+    },
+    "alizadeh": {
+      "seed": 332.2,
+      "median_do": 332.01277202135833,
+      "std_cents": 4.719198641818956,
+      "range_cents": 19.356443790387413,
+      "n_tracks_used": 36,
+      "n_tracks_skipped": 0,
+      "n_strikes": 6191,
+      "do_mode": "per_track"
+    },
+    "shekarchi": {
+      "seed": 441.2,
+      "median_do": 442.9985508938242,
+      "std_cents": 9.252572920570861,
+      "range_cents": 35.827232019221384,
+      "n_tracks_used": 31,
+      "n_tracks_skipped": 2,
+      "n_strikes": 5451,
+      "do_mode": "per_track"
+    },
+    "borumand": {
+      "seed": 327.0,
+      "median_do": 327.0355224609375,
+      "std_cents": 11.684487286252333,
+      "range_cents": 71.03989018614051,
+      "n_tracks_used": 35,
+      "n_tracks_skipped": 9,
+      "n_strikes": 5564,
+      "do_mode": "per_track"
+    },
+    "shahnazi": {
+      "seed": 385.2,
+      "median_do": 385.283550209542,
+      "std_cents": 3.8588783811666025,
+      "range_cents": 16.270069063060212,
+      "n_tracks_used": 18,
+      "n_tracks_skipped": 5,
+      "n_strikes": 2165,
+      "do_mode": "per_track"
+    },
+    "lotfi": {
+      "seed": 326.3,
+      "median_do": 326.394072669675,
+      "std_cents": 3.302392595454285,
+      "range_cents": 16.068560192578158,
+      "n_tracks_used": 75,
+      "n_tracks_skipped": 0,
+      "n_strikes": 2665,
+      "do_mode": "sliding_window_45s_hop_15s"
+    },
+    "lotfi_mahur": {
+      "seed": 318.9325013802232,
+      "median_do": 318.73006745706664,
+      "std_cents": 2.874649694270282,
+      "range_cents": 11.326693193041034,
+      "n_tracks_used": 9,
+      "n_tracks_skipped": 16,
+      "n_strikes": 2488,
+      "do_mode": "per_track_curated_playlist"
+    },
+    "forutan": {
+      "seed": 224.8273327278039,
+      "median_do": 225.68840696070856,
+      "std_cents": 8.604315324943387,
+      "range_cents": 29.803543144991888,
+      "n_tracks_used": 14,
+      "n_tracks_skipped": 0,
+      "n_strikes": 3559,
+      "do_mode": "per_track_mahur_only"
+    },
+    "neydavud": {
+      "seed": 262.4359130859375,
+      "median_do": 266.34142527323286,
+      "std_cents": 22.879192020806546,
+      "range_cents": 62.469332396966095,
+      "n_tracks_used": 18,
+      "n_tracks_skipped": 25,
+      "n_strikes": 3102,
+      "do_mode": "per_track_quality_filtered"
+    },
+    "ebadi": {
+      "seed": 253.01513671875,
+      "median_do": 253.01513671875,
+      "std_cents": 6.403181373760298,
+      "range_cents": 18.320107983972683,
+      "n_tracks_used": 30,
+      "n_tracks_skipped": 0,
+      "n_strikes": 1471,
+      "do_mode": "sliding_window_45s_hop_15s_mahur_only"
+    },
+    "kasaei_radif": {
+      "seed": 370.8,
+      "median_do": 370.7598426416748,
+      "std_cents": 13.96249026924066,
+      "range_cents": 71.49720292868746,
+      "n_tracks_used": 36,
+      "n_tracks_skipped": 18,
+      "n_strikes": 4829,
+      "do_mode": "per_track_setar_mahoor_radif"
+    },
+    "saba": {
+      "seed": 376.6,
+      "median_do": 376.77786873935804,
+      "std_cents": 6.2573789473729775,
+      "range_cents": 24.128440607552058,
+      "n_tracks_used": 58,
+      "n_tracks_skipped": 0,
+      "n_strikes": 2206,
+      "do_mode": "sliding_window_45s_hop_15s_setar_mahoor"
+    },
+    "karimi": {
+      "seed": 200.5279541015625,
+      "median_do": 200.5279541015625,
+      "std_cents": 20.629845473919424,
+      "range_cents": 64.67160959424234,
+      "n_tracks_used": 17,
+      "n_tracks_skipped": 3,
+      "n_strikes": 3999,
+      "do_mode": "per_track_vocal_mahur"
+    }
+  },
+  "slots": [
+    {
+      "label": "Re\u2193",
+      "name": "Re\u2193",
+      "cents": -998.6,
+      "n_artists": 13,
+      "per_artist": {
+        "nariman": -997.0,
+        "alizadeh": -995.7,
+        "shekarchi": -1020.8,
+        "borumand": -988.9,
+        "shahnazi": -998.6,
+        "lotfi": -999.5,
+        "lotfi_mahur": -1004.9,
+        "forutan": -993.5,
+        "neydavud": -1007.0,
+        "ebadi": -990.1,
+        "kasaei_radif": -997.9,
+        "saba": -1003.9,
+        "karimi": -1002.6
+      }
+    },
+    {
+      "label": "Mi\u2193",
+      "name": "Mi\u2193",
+      "cents": -915.2,
+      "n_artists": 11,
+      "per_artist": {
+        "nariman": -865.9,
+        "alizadeh": -911.9,
+        "shekarchi": -927.2,
+        "shahnazi": -908.0,
+        "lotfi": -915.2,
+        "lotfi_mahur": -911.4,
+        "forutan": -862.7,
+        "neydavud": -919.3,
+        "kasaei_radif": -920.9,
+        "saba": -920.8,
+        "karimi": -923.3
+      }
+    },
+    {
+      "label": "Fa",
+      "name": "Fa",
+      "cents": -703.5,
+      "n_artists": 13,
+      "per_artist": {
+        "nariman": -714.0,
+        "alizadeh": -702.5,
+        "shekarchi": -709.7,
+        "borumand": -706.4,
+        "shahnazi": -702.0,
+        "lotfi": -702.8,
+        "lotfi_mahur": -702.7,
+        "forutan": -706.6,
+        "neydavud": -705.3,
+        "ebadi": -697.5,
+        "kasaei_radif": -701.2,
+        "saba": -703.5,
+        "karimi": -719.4
+      }
+    },
+    {
+      "label": "Sol",
+      "name": "Sol",
+      "cents": -499.5,
+      "n_artists": 13,
+      "per_artist": {
+        "nariman": -496.9,
+        "alizadeh": -491.2,
+        "shekarchi": -512.9,
+        "borumand": -500.4,
+        "shahnazi": -505.0,
+        "lotfi": -494.2,
+        "lotfi_mahur": -499.5,
+        "forutan": -498.6,
+        "neydavud": -490.9,
+        "ebadi": -498.2,
+        "kasaei_radif": -501.0,
+        "saba": -500.8,
+        "karimi": -502.0
+      }
+    },
+    {
+      "label": "La",
+      "name": "La",
+      "cents": -299.6,
+      "n_artists": 13,
+      "per_artist": {
+        "nariman": -289.2,
+        "alizadeh": -299.6,
+        "shekarchi": -315.4,
+        "borumand": -292.4,
+        "shahnazi": -298.9,
+        "lotfi": -303.6,
+        "lotfi_mahur": -297.6,
+        "forutan": -301.6,
+        "neydavud": -303.3,
+        "ebadi": -286.6,
+        "kasaei_radif": -290.1,
+        "saba": -307.3,
+        "karimi": -305.6
+      }
+    },
+    {
+      "label": "Si",
+      "name": "Si",
+      "cents": -209.4,
+      "n_artists": 13,
+      "per_artist": {
+        "nariman": -209.3,
+        "alizadeh": -198.0,
+        "shekarchi": -210.7,
+        "borumand": -214.2,
+        "shahnazi": -203.9,
+        "lotfi": -206.0,
+        "lotfi_mahur": -198.7,
+        "forutan": -219.5,
+        "neydavud": -214.6,
+        "ebadi": -230.5,
+        "kasaei_radif": -202.6,
+        "saba": -209.4,
+        "karimi": -212.8
+      }
+    },
+    {
+      "label": "Si\u1d4f",
+      "name": "Si\u1d4f",
+      "cents": -99.1,
+      "n_artists": 8,
+      "per_artist": {
+        "nariman": -103.1,
+        "alizadeh": -111.4,
+        "borumand": -95.2,
+        "lotfi_mahur": -82.6,
+        "forutan": -85.6,
+        "neydavud": -106.5,
+        "ebadi": -76.8,
+        "karimi": -110.1
+      }
+    },
+    {
+      "label": "Do",
+      "name": "Do",
+      "cents": 0.0,
+      "n_artists": 13,
+      "per_artist": {
+        "nariman": 0.0,
+        "alizadeh": 0.0,
+        "shekarchi": 0.0,
+        "borumand": 0.0,
+        "shahnazi": 0.0,
+        "lotfi": 0.0,
+        "lotfi_mahur": 0.0,
+        "forutan": 0.0,
+        "neydavud": 0.0,
+        "ebadi": 0.0,
+        "kasaei_radif": 0.0,
+        "saba": 0.0,
+        "karimi": 0.0
+      }
+    },
+    {
+      "label": "Re",
+      "name": "Re",
+      "cents": 201.4,
+      "n_artists": 13,
+      "per_artist": {
+        "nariman": 203.0,
+        "alizadeh": 204.3,
+        "shekarchi": 179.2,
+        "borumand": 211.1,
+        "shahnazi": 201.4,
+        "lotfi": 200.5,
+        "lotfi_mahur": 195.1,
+        "forutan": 206.5,
+        "neydavud": 193.0,
+        "ebadi": 209.9,
+        "kasaei_radif": 202.1,
+        "saba": 196.1,
+        "karimi": 197.4
+      }
+    },
+    {
+      "label": "Mi",
+      "name": "Mi",
+      "cents": 399.5,
+      "n_artists": 13,
+      "per_artist": {
+        "nariman": 395.6,
+        "alizadeh": 394.2,
+        "shekarchi": 377.6,
+        "borumand": 412.3,
+        "shahnazi": 402.5,
+        "lotfi": 408.4,
+        "lotfi_mahur": 411.6,
+        "forutan": 399.5,
+        "neydavud": 392.4,
+        "ebadi": 413.9,
+        "kasaei_radif": 399.0,
+        "saba": 386.9,
+        "karimi": 402.8
+      }
+    },
+    {
+      "label": "Fa\u2191",
+      "name": "Fa\u2191",
+      "cents": 496.5,
+      "n_artists": 13,
+      "per_artist": {
+        "nariman": 486.0,
+        "alizadeh": 497.5,
+        "shekarchi": 490.3,
+        "borumand": 493.6,
+        "shahnazi": 498.0,
+        "lotfi": 497.2,
+        "lotfi_mahur": 497.3,
+        "forutan": 493.4,
+        "neydavud": 494.7,
+        "ebadi": 502.5,
+        "kasaei_radif": 498.8,
+        "saba": 496.5,
+        "karimi": 480.6
+      }
+    },
+    {
+      "label": "Sol\u2191",
+      "name": "Sol\u2191",
+      "cents": 700.5,
+      "n_artists": 13,
+      "per_artist": {
+        "nariman": 703.1,
+        "alizadeh": 708.8,
+        "shekarchi": 686.1,
+        "borumand": 699.6,
+        "shahnazi": 695.0,
+        "lotfi": 705.8,
+        "lotfi_mahur": 700.5,
+        "forutan": 701.4,
+        "neydavud": 709.1,
+        "ebadi": 701.8,
+        "kasaei_radif": 699.0,
+        "saba": 699.2,
+        "karimi": 698.0
+      }
+    },
+    {
+      "label": "La\u2191",
+      "name": "La\u2191",
+      "cents": 900.4,
+      "n_artists": 13,
+      "per_artist": {
+        "nariman": 910.8,
+        "alizadeh": 900.4,
+        "shekarchi": 884.6,
+        "borumand": 907.6,
+        "shahnazi": 901.1,
+        "lotfi": 896.4,
+        "lotfi_mahur": 902.4,
+        "forutan": 898.4,
+        "neydavud": 896.7,
+        "ebadi": 913.4,
+        "kasaei_radif": 909.9,
+        "saba": 892.7,
+        "karimi": 894.4
+      }
+    }
+  ],
+  "solo_excluded": [],
+  "albums": {
+    "nariman": {
+      "median_do": 265.3189705405649,
+      "do_drift_std_cents": 2.2549847561418233,
+      "do_drift_range_cents": 9.38235031149334,
+      "n_tracks_used": 18,
+      "n_tracks_skipped": 2,
+      "details": [
+        {
+          "label": "Re\u2193",
+          "template_cents": -1000.0,
+          "ok": true,
+          "matched_cents": -996.9502487640566,
+          "delta_cents": 3.049751235943404,
+          "n": 837,
+          "native": true,
+          "n_native": 240
+        },
+        {
+          "label": "Mi\u2193",
+          "template_cents": -900.0,
+          "ok": true,
+          "matched_cents": -865.8790018107512,
+          "delta_cents": 34.12099818924878,
+          "n": 135,
+          "native": true,
+          "n_native": 125
+        },
+        {
+          "label": "Fa",
+          "template_cents": -710.0,
+          "ok": true,
+          "matched_cents": -713.9774612869668,
+          "delta_cents": -3.9774612869667862,
+          "n": 650,
+          "native": true,
+          "n_native": 645
+        },
+        {
+          "label": "Sol",
+          "template_cents": -490.0,
+          "ok": true,
+          "matched_cents": -496.8711781186833,
+          "delta_cents": -6.871178118683304,
+          "n": 1262,
+          "native": true,
+          "n_native": 1261
+        },
+        {
+          "label": "La",
+          "template_cents": -300.0,
+          "ok": true,
+          "matched_cents": -289.1832218707582,
+          "delta_cents": 10.816778129241811,
+          "n": 405,
+          "native": true,
+          "n_native": 405
+        },
+        {
+          "label": "Si",
+          "template_cents": -210.0,
+          "ok": true,
+          "matched_cents": -209.3108352472932,
+          "delta_cents": 0.6891647527068017,
+          "n": 209,
+          "native": true,
+          "n_native": 209
+        },
+        {
+          "label": "Si\u1d4f",
+          "template_cents": -115.0,
+          "ok": true,
+          "matched_cents": -103.08330572287826,
+          "delta_cents": 11.916694277121735,
+          "n": 332,
+          "native": true,
+          "n_native": 298
+        },
+        {
+          "label": "Do",
+          "template_cents": 0.0,
+          "ok": true,
+          "matched_cents": 0.0,
+          "delta_cents": 0.0,
+          "n": 1188,
+          "native": true,
+          "n_native": 1185
+        },
+        {
+          "label": "Re",
+          "template_cents": 200.0,
+          "ok": true,
+          "matched_cents": 203.04975123594352,
+          "delta_cents": 3.0497512359435177,
+          "n": 837,
+          "native": true,
+          "n_native": 594
+        },
+        {
+          "label": "Mi",
+          "template_cents": 400.0,
+          "ok": true,
+          "matched_cents": 395.6489369865237,
+          "delta_cents": -4.351063013476278,
+          "n": 607,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Fa\u2191",
+          "template_cents": 500.0,
+          "ok": true,
+          "matched_cents": 486.0225387130333,
+          "delta_cents": -13.977461286966673,
+          "n": 650,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Sol\u2191",
+          "template_cents": 700.0,
+          "ok": true,
+          "matched_cents": 703.1288218813166,
+          "delta_cents": 3.1288218813166395,
+          "n": 1262,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "La\u2191",
+          "template_cents": 900.0,
+          "ok": true,
+          "matched_cents": 910.8167781292418,
+          "delta_cents": 10.816778129241811,
+          "n": 405,
+          "native": false,
+          "n_native": 0
+        }
+      ],
+      "n_strikes": 5954,
+      "do_mode": "per_track"
+    },
+    "alizadeh": {
+      "median_do": 332.01277202135833,
+      "do_drift_std_cents": 4.719198641818956,
+      "do_drift_range_cents": 19.356443790387413,
+      "n_tracks_used": 36,
+      "n_tracks_skipped": 0,
+      "details": [
+        {
+          "label": "Re\u2193",
+          "template_cents": -1000.0,
+          "ok": true,
+          "matched_cents": -995.6904050028002,
+          "delta_cents": 4.309594997199838,
+          "n": 421,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Mi\u2193",
+          "template_cents": -900.0,
+          "ok": true,
+          "matched_cents": -911.8669665784867,
+          "delta_cents": -11.866966578486654,
+          "n": 61,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Fa",
+          "template_cents": -710.0,
+          "ok": true,
+          "matched_cents": -702.4595546384705,
+          "delta_cents": 7.540445361529464,
+          "n": 644,
+          "native": true,
+          "n_native": 83
+        },
+        {
+          "label": "Sol",
+          "template_cents": -490.0,
+          "ok": true,
+          "matched_cents": -491.20315588274207,
+          "delta_cents": -1.2031558827420668,
+          "n": 316,
+          "native": true,
+          "n_native": 245
+        },
+        {
+          "label": "La",
+          "template_cents": -300.0,
+          "ok": true,
+          "matched_cents": -299.6371122928539,
+          "delta_cents": 0.36288770714611474,
+          "n": 290,
+          "native": true,
+          "n_native": 279
+        },
+        {
+          "label": "Si",
+          "template_cents": -210.0,
+          "ok": true,
+          "matched_cents": -198.012720147481,
+          "delta_cents": 11.98727985251901,
+          "n": 413,
+          "native": true,
+          "n_native": 410
+        },
+        {
+          "label": "Si\u1d4f",
+          "template_cents": -115.0,
+          "ok": true,
+          "matched_cents": -111.44917221073422,
+          "delta_cents": 3.5508277892657816,
+          "n": 57,
+          "native": true,
+          "n_native": 57
+        },
+        {
+          "label": "Do",
+          "template_cents": 0.0,
+          "ok": true,
+          "matched_cents": 0.0,
+          "delta_cents": 0.0,
+          "n": 3505,
+          "native": true,
+          "n_native": 3501
+        },
+        {
+          "label": "Re",
+          "template_cents": 200.0,
+          "ok": true,
+          "matched_cents": 204.30959499719972,
+          "delta_cents": 4.309594997199724,
+          "n": 421,
+          "native": true,
+          "n_native": 421
+        },
+        {
+          "label": "Mi",
+          "template_cents": 400.0,
+          "ok": true,
+          "matched_cents": 394.2032469327607,
+          "delta_cents": -5.796753067239308,
+          "n": 222,
+          "native": true,
+          "n_native": 220
+        },
+        {
+          "label": "Fa\u2191",
+          "template_cents": 500.0,
+          "ok": true,
+          "matched_cents": 497.5404453615295,
+          "delta_cents": -2.459554638470479,
+          "n": 644,
+          "native": true,
+          "n_native": 561
+        },
+        {
+          "label": "Sol\u2191",
+          "template_cents": 700.0,
+          "ok": true,
+          "matched_cents": 708.7968441172579,
+          "delta_cents": 8.796844117257933,
+          "n": 316,
+          "native": true,
+          "n_native": 71
+        },
+        {
+          "label": "La\u2191",
+          "template_cents": 900.0,
+          "ok": true,
+          "matched_cents": 900.3628877071461,
+          "delta_cents": 0.36288770714611474,
+          "n": 290,
+          "native": false,
+          "n_native": 0
+        }
+      ],
+      "n_strikes": 6191,
+      "do_mode": "per_track"
+    },
+    "shekarchi": {
+      "median_do": 442.9985508938242,
+      "do_drift_std_cents": 9.252572920570861,
+      "do_drift_range_cents": 35.827232019221384,
+      "n_tracks_used": 31,
+      "n_tracks_skipped": 2,
+      "details": [
+        {
+          "label": "Re\u2193",
+          "template_cents": -1000.0,
+          "ok": true,
+          "matched_cents": -1020.8034252346199,
+          "delta_cents": -20.80342523461991,
+          "n": 1039,
+          "native": true,
+          "n_native": 24
+        },
+        {
+          "label": "Mi\u2193",
+          "template_cents": -900.0,
+          "ok": true,
+          "matched_cents": -927.1778722701904,
+          "delta_cents": -27.17787227019039,
+          "n": 694,
+          "native": true,
+          "n_native": 33
+        },
+        {
+          "label": "Fa",
+          "template_cents": -710.0,
+          "ok": true,
+          "matched_cents": -709.7343013125319,
+          "delta_cents": 0.26569868746810243,
+          "n": 979,
+          "native": true,
+          "n_native": 238
+        },
+        {
+          "label": "Sol",
+          "template_cents": -490.0,
+          "ok": true,
+          "matched_cents": -512.870538392137,
+          "delta_cents": -22.87053839213695,
+          "n": 330,
+          "native": true,
+          "n_native": 70
+        },
+        {
+          "label": "La",
+          "template_cents": -300.0,
+          "ok": true,
+          "matched_cents": -315.4365748957265,
+          "delta_cents": -15.436574895726494,
+          "n": 187,
+          "native": true,
+          "n_native": 109
+        },
+        {
+          "label": "Si",
+          "template_cents": -210.0,
+          "ok": true,
+          "matched_cents": -210.66439233943083,
+          "delta_cents": -0.6643923394308331,
+          "n": 842,
+          "native": true,
+          "n_native": 639
+        },
+        {
+          "label": "Si\u1d4f",
+          "template_cents": -115.0,
+          "ok": false,
+          "matched_cents": null,
+          "delta_cents": null,
+          "n": 0,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Do",
+          "template_cents": 0.0,
+          "ok": true,
+          "matched_cents": 0.0,
+          "delta_cents": 0.0,
+          "n": 872,
+          "native": true,
+          "n_native": 872
+        },
+        {
+          "label": "Re",
+          "template_cents": 200.0,
+          "ok": true,
+          "matched_cents": 179.1965747653801,
+          "delta_cents": -20.80342523461991,
+          "n": 1039,
+          "native": true,
+          "n_native": 1014
+        },
+        {
+          "label": "Mi",
+          "template_cents": 400.0,
+          "ok": true,
+          "matched_cents": 377.64501207500325,
+          "delta_cents": -22.35498792499675,
+          "n": 19,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Fa\u2191",
+          "template_cents": 500.0,
+          "ok": true,
+          "matched_cents": 490.2656986874681,
+          "delta_cents": -9.734301312531898,
+          "n": 979,
+          "native": true,
+          "n_native": 742
+        },
+        {
+          "label": "Sol\u2191",
+          "template_cents": 700.0,
+          "ok": true,
+          "matched_cents": 686.0607238400112,
+          "delta_cents": -13.939276159988822,
+          "n": 345,
+          "native": true,
+          "n_native": 276
+        },
+        {
+          "label": "La\u2191",
+          "template_cents": 900.0,
+          "ok": true,
+          "matched_cents": 884.5634251042734,
+          "delta_cents": -15.436574895726608,
+          "n": 187,
+          "native": true,
+          "n_native": 78
+        }
+      ],
+      "n_strikes": 5451,
+      "do_mode": "per_track"
+    },
+    "borumand": {
+      "median_do": 327.0355224609375,
+      "do_drift_std_cents": 11.684487286252333,
+      "do_drift_range_cents": 71.03989018614051,
+      "n_tracks_used": 35,
+      "n_tracks_skipped": 9,
+      "details": [
+        {
+          "label": "Re\u2193",
+          "template_cents": -1000.0,
+          "ok": true,
+          "matched_cents": -988.8919609345793,
+          "delta_cents": 11.108039065420712,
+          "n": 892,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Mi\u2193",
+          "template_cents": -900.0,
+          "ok": false,
+          "matched_cents": -857.4524934823165,
+          "delta_cents": 42.54750651768347,
+          "n": 206,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Fa",
+          "template_cents": -710.0,
+          "ok": true,
+          "matched_cents": -706.3866523203812,
+          "delta_cents": 3.613347679618755,
+          "n": 113,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Sol",
+          "template_cents": -490.0,
+          "ok": true,
+          "matched_cents": -500.4214360885014,
+          "delta_cents": -10.421436088501423,
+          "n": 780,
+          "native": true,
+          "n_native": 452
+        },
+        {
+          "label": "La",
+          "template_cents": -300.0,
+          "ok": true,
+          "matched_cents": -292.3875692710436,
+          "delta_cents": 7.612430728956383,
+          "n": 936,
+          "native": true,
+          "n_native": 791
+        },
+        {
+          "label": "Si",
+          "template_cents": -210.0,
+          "ok": true,
+          "matched_cents": -214.2444540402264,
+          "delta_cents": -4.244454040226401,
+          "n": 79,
+          "native": true,
+          "n_native": 27
+        },
+        {
+          "label": "Si\u1d4f",
+          "template_cents": -115.0,
+          "ok": true,
+          "matched_cents": -95.18694319368683,
+          "delta_cents": 19.81305680631317,
+          "n": 702,
+          "native": true,
+          "n_native": 685
+        },
+        {
+          "label": "Do",
+          "template_cents": 0.0,
+          "ok": true,
+          "matched_cents": 0.0,
+          "delta_cents": 0.0,
+          "n": 1043,
+          "native": true,
+          "n_native": 1034
+        },
+        {
+          "label": "Re",
+          "template_cents": 200.0,
+          "ok": true,
+          "matched_cents": 211.10803906542066,
+          "delta_cents": 11.108039065420655,
+          "n": 892,
+          "native": true,
+          "n_native": 892
+        },
+        {
+          "label": "Mi",
+          "template_cents": 400.0,
+          "ok": true,
+          "matched_cents": 412.29753787461243,
+          "delta_cents": 12.29753787461243,
+          "n": 342,
+          "native": true,
+          "n_native": 256
+        },
+        {
+          "label": "Fa\u2191",
+          "template_cents": 500.0,
+          "ok": true,
+          "matched_cents": 493.61334767961876,
+          "delta_cents": -6.386652320381245,
+          "n": 113,
+          "native": true,
+          "n_native": 111
+        },
+        {
+          "label": "Sol\u2191",
+          "template_cents": 700.0,
+          "ok": true,
+          "matched_cents": 699.5785639114986,
+          "delta_cents": -0.421436088501423,
+          "n": 780,
+          "native": true,
+          "n_native": 330
+        },
+        {
+          "label": "La\u2191",
+          "template_cents": 900.0,
+          "ok": true,
+          "matched_cents": 907.6124307289563,
+          "delta_cents": 7.612430728956269,
+          "n": 936,
+          "native": true,
+          "n_native": 146
+        }
+      ],
+      "n_strikes": 5564,
+      "do_mode": "per_track"
+    },
+    "shahnazi": {
+      "median_do": 385.283550209542,
+      "do_drift_std_cents": 3.8588783811666025,
+      "do_drift_range_cents": 16.270069063060212,
+      "n_tracks_used": 18,
+      "n_tracks_skipped": 5,
+      "details": [
+        {
+          "label": "Re\u2193",
+          "template_cents": -1000.0,
+          "ok": true,
+          "matched_cents": -998.6162921217283,
+          "delta_cents": 1.3837078782717072,
+          "n": 106,
+          "native": true,
+          "n_native": 30
+        },
+        {
+          "label": "Mi\u2193",
+          "template_cents": -900.0,
+          "ok": true,
+          "matched_cents": -907.9977221557943,
+          "delta_cents": -7.997722155794349,
+          "n": 35,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Fa",
+          "template_cents": -710.0,
+          "ok": true,
+          "matched_cents": -702.0264380403306,
+          "delta_cents": 7.973561959669382,
+          "n": 391,
+          "native": true,
+          "n_native": 344
+        },
+        {
+          "label": "Sol",
+          "template_cents": -490.0,
+          "ok": true,
+          "matched_cents": -505.0266338146762,
+          "delta_cents": -15.026633814676188,
+          "n": 293,
+          "native": true,
+          "n_native": 277
+        },
+        {
+          "label": "La",
+          "template_cents": -300.0,
+          "ok": true,
+          "matched_cents": -298.90977500176496,
+          "delta_cents": 1.090224998235044,
+          "n": 213,
+          "native": true,
+          "n_native": 201
+        },
+        {
+          "label": "Si",
+          "template_cents": -210.0,
+          "ok": true,
+          "matched_cents": -203.89822928060426,
+          "delta_cents": 6.101770719395745,
+          "n": 351,
+          "native": true,
+          "n_native": 346
+        },
+        {
+          "label": "Si\u1d4f",
+          "template_cents": -115.0,
+          "ok": false,
+          "matched_cents": -158.91320147625868,
+          "delta_cents": -43.91320147625868,
+          "n": 10,
+          "native": true,
+          "n_native": 10
+        },
+        {
+          "label": "Do",
+          "template_cents": 0.0,
+          "ok": true,
+          "matched_cents": 0.0,
+          "delta_cents": 0.0,
+          "n": 477,
+          "native": true,
+          "n_native": 476
+        },
+        {
+          "label": "Re",
+          "template_cents": 200.0,
+          "ok": true,
+          "matched_cents": 201.3837078782717,
+          "delta_cents": 1.3837078782717072,
+          "n": 106,
+          "native": true,
+          "n_native": 76
+        },
+        {
+          "label": "Mi",
+          "template_cents": 400.0,
+          "ok": true,
+          "matched_cents": 402.50180266956295,
+          "delta_cents": 2.5018026695629487,
+          "n": 80,
+          "native": true,
+          "n_native": 22
+        },
+        {
+          "label": "Fa\u2191",
+          "template_cents": 500.0,
+          "ok": true,
+          "matched_cents": 497.9735619596695,
+          "delta_cents": -2.026438040330504,
+          "n": 391,
+          "native": true,
+          "n_native": 47
+        },
+        {
+          "label": "Sol\u2191",
+          "template_cents": 700.0,
+          "ok": true,
+          "matched_cents": 694.9733661853238,
+          "delta_cents": -5.026633814676188,
+          "n": 293,
+          "native": true,
+          "n_native": 16
+        },
+        {
+          "label": "La\u2191",
+          "template_cents": 900.0,
+          "ok": true,
+          "matched_cents": 901.090224998235,
+          "delta_cents": 1.090224998235044,
+          "n": 213,
+          "native": true,
+          "n_native": 12
+        }
+      ],
+      "n_strikes": 2165,
+      "do_mode": "per_track"
+    },
+    "lotfi": {
+      "median_do": 326.394072669675,
+      "do_drift_std_cents": 3.302392595454285,
+      "do_drift_range_cents": 16.068560192578158,
+      "n_tracks_used": 75,
+      "n_tracks_skipped": 0,
+      "details": [
+        {
+          "label": "Re\u2193",
+          "template_cents": -1000.0,
+          "ok": true,
+          "matched_cents": -999.4953525750175,
+          "delta_cents": 0.5046474249825224,
+          "n": 90,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Mi\u2193",
+          "template_cents": -900.0,
+          "ok": true,
+          "matched_cents": -915.2100027559486,
+          "delta_cents": -15.210002755948608,
+          "n": 31,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Fa",
+          "template_cents": -710.0,
+          "ok": true,
+          "matched_cents": -702.8179431189387,
+          "delta_cents": 7.182056881061271,
+          "n": 894,
+          "native": true,
+          "n_native": 864
+        },
+        {
+          "label": "Sol",
+          "template_cents": -490.0,
+          "ok": true,
+          "matched_cents": -494.2408570255666,
+          "delta_cents": -4.240857025566584,
+          "n": 93,
+          "native": true,
+          "n_native": 88
+        },
+        {
+          "label": "La",
+          "template_cents": -300.0,
+          "ok": true,
+          "matched_cents": -303.619889991568,
+          "delta_cents": -3.619889991568016,
+          "n": 181,
+          "native": true,
+          "n_native": 181
+        },
+        {
+          "label": "Si",
+          "template_cents": -210.0,
+          "ok": true,
+          "matched_cents": -206.00636815425554,
+          "delta_cents": 3.99363184574446,
+          "n": 124,
+          "native": true,
+          "n_native": 124
+        },
+        {
+          "label": "Si\u1d4f",
+          "template_cents": -115.0,
+          "ok": false,
+          "matched_cents": null,
+          "delta_cents": null,
+          "n": 0,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Do",
+          "template_cents": 0.0,
+          "ok": true,
+          "matched_cents": 0.0,
+          "delta_cents": 0.0,
+          "n": 993,
+          "native": true,
+          "n_native": 992
+        },
+        {
+          "label": "Re",
+          "template_cents": 200.0,
+          "ok": true,
+          "matched_cents": 200.50464742498252,
+          "delta_cents": 0.5046474249825224,
+          "n": 90,
+          "native": true,
+          "n_native": 90
+        },
+        {
+          "label": "Mi",
+          "template_cents": 400.0,
+          "ok": true,
+          "matched_cents": 408.35826857718666,
+          "delta_cents": 8.358268577186664,
+          "n": 49,
+          "native": true,
+          "n_native": 20
+        },
+        {
+          "label": "Fa\u2191",
+          "template_cents": 500.0,
+          "ok": true,
+          "matched_cents": 497.18205688106127,
+          "delta_cents": -2.8179431189387287,
+          "n": 894,
+          "native": true,
+          "n_native": 30
+        },
+        {
+          "label": "Sol\u2191",
+          "template_cents": 700.0,
+          "ok": true,
+          "matched_cents": 705.7591429744334,
+          "delta_cents": 5.759142974433416,
+          "n": 93,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "La\u2191",
+          "template_cents": 900.0,
+          "ok": true,
+          "matched_cents": 896.380110008432,
+          "delta_cents": -3.619889991568016,
+          "n": 181,
+          "native": false,
+          "n_native": 0
+        }
+      ],
+      "n_strikes": 2665,
+      "do_mode": "sliding_window_45s_hop_15s"
+    },
+    "lotfi_mahur": {
+      "median_do": 318.73006745706664,
+      "do_drift_std_cents": 2.874649694270282,
+      "do_drift_range_cents": 11.326693193041034,
+      "n_tracks_used": 9,
+      "n_tracks_skipped": 16,
+      "details": [
+        {
+          "label": "Re\u2193",
+          "template_cents": -1000.0,
+          "ok": true,
+          "matched_cents": -1004.9394396735856,
+          "delta_cents": -4.939439673585639,
+          "n": 96,
+          "native": true,
+          "n_native": 59
+        },
+        {
+          "label": "Mi\u2193",
+          "template_cents": -900.0,
+          "ok": true,
+          "matched_cents": -911.4268338827205,
+          "delta_cents": -11.42683388272053,
+          "n": 59,
+          "native": true,
+          "n_native": 9
+        },
+        {
+          "label": "Fa",
+          "template_cents": -710.0,
+          "ok": true,
+          "matched_cents": -702.7400637035969,
+          "delta_cents": 7.2599362964031116,
+          "n": 795,
+          "native": true,
+          "n_native": 740
+        },
+        {
+          "label": "Sol",
+          "template_cents": -490.0,
+          "ok": true,
+          "matched_cents": -499.4806780405306,
+          "delta_cents": -9.48067804053062,
+          "n": 139,
+          "native": true,
+          "n_native": 123
+        },
+        {
+          "label": "La",
+          "template_cents": -300.0,
+          "ok": true,
+          "matched_cents": -297.55440124821973,
+          "delta_cents": 2.445598751780267,
+          "n": 177,
+          "native": true,
+          "n_native": 177
+        },
+        {
+          "label": "Si",
+          "template_cents": -210.0,
+          "ok": true,
+          "matched_cents": -198.72644122581232,
+          "delta_cents": 11.273558774187677,
+          "n": 283,
+          "native": true,
+          "n_native": 279
+        },
+        {
+          "label": "Si\u1d4f",
+          "template_cents": -115.0,
+          "ok": true,
+          "matched_cents": -82.59661335540778,
+          "delta_cents": 32.40338664459222,
+          "n": 62,
+          "native": true,
+          "n_native": 62
+        },
+        {
+          "label": "Do",
+          "template_cents": 0.0,
+          "ok": true,
+          "matched_cents": -0.000538543845834738,
+          "delta_cents": -0.000538543845834738,
+          "n": 644,
+          "native": true,
+          "n_native": 626
+        },
+        {
+          "label": "Re",
+          "template_cents": 200.0,
+          "ok": true,
+          "matched_cents": 195.06056032641436,
+          "delta_cents": -4.939439673585639,
+          "n": 96,
+          "native": true,
+          "n_native": 32
+        },
+        {
+          "label": "Mi",
+          "template_cents": 400.0,
+          "ok": true,
+          "matched_cents": 411.6106120856566,
+          "delta_cents": 11.610612085656612,
+          "n": 70,
+          "native": true,
+          "n_native": 23
+        },
+        {
+          "label": "Fa\u2191",
+          "template_cents": 500.0,
+          "ok": true,
+          "matched_cents": 497.2599362964031,
+          "delta_cents": -2.7400637035968884,
+          "n": 795,
+          "native": true,
+          "n_native": 55
+        },
+        {
+          "label": "Sol\u2191",
+          "template_cents": 700.0,
+          "ok": true,
+          "matched_cents": 700.5193219594695,
+          "delta_cents": 0.5193219594694938,
+          "n": 139,
+          "native": true,
+          "n_native": 16
+        },
+        {
+          "label": "La\u2191",
+          "template_cents": 900.0,
+          "ok": true,
+          "matched_cents": 902.4455987517804,
+          "delta_cents": 2.4455987517803806,
+          "n": 177,
+          "native": false,
+          "n_native": 0
+        }
+      ],
+      "n_strikes": 2488,
+      "do_mode": "per_track_curated_playlist"
+    },
+    "forutan": {
+      "median_do": 225.68840696070856,
+      "do_drift_std_cents": 8.604315324943387,
+      "do_drift_range_cents": 29.803543144991888,
+      "n_tracks_used": 14,
+      "n_tracks_skipped": 0,
+      "details": [
+        {
+          "label": "Re\u2193",
+          "template_cents": -1000.0,
+          "ok": true,
+          "matched_cents": -993.4943253252586,
+          "delta_cents": 6.505674674741385,
+          "n": 135,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Mi\u2193",
+          "template_cents": -900.0,
+          "ok": true,
+          "matched_cents": -862.6688327836612,
+          "delta_cents": 37.33116721633883,
+          "n": 76,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Fa",
+          "template_cents": -710.0,
+          "ok": true,
+          "matched_cents": -706.612853926224,
+          "delta_cents": 3.387146073775966,
+          "n": 289,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Sol",
+          "template_cents": -490.0,
+          "ok": true,
+          "matched_cents": -498.58148754524746,
+          "delta_cents": -8.581487545247455,
+          "n": 1488,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "La",
+          "template_cents": -300.0,
+          "ok": true,
+          "matched_cents": -301.571966799911,
+          "delta_cents": -1.5719667999110243,
+          "n": 94,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Si",
+          "template_cents": -210.0,
+          "ok": true,
+          "matched_cents": -219.5118154335787,
+          "delta_cents": -9.511815433578704,
+          "n": 22,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Si\u1d4f",
+          "template_cents": -115.0,
+          "ok": true,
+          "matched_cents": -85.559564189517,
+          "delta_cents": 29.440435810482995,
+          "n": 59,
+          "native": true,
+          "n_native": 50
+        },
+        {
+          "label": "Do",
+          "template_cents": 0.0,
+          "ok": true,
+          "matched_cents": 0.0,
+          "delta_cents": 0.0,
+          "n": 1056,
+          "native": true,
+          "n_native": 1050
+        },
+        {
+          "label": "Re",
+          "template_cents": 200.0,
+          "ok": true,
+          "matched_cents": 206.5056746747415,
+          "delta_cents": 6.505674674741499,
+          "n": 135,
+          "native": true,
+          "n_native": 135
+        },
+        {
+          "label": "Mi",
+          "template_cents": 400.0,
+          "ok": true,
+          "matched_cents": 399.48620095631986,
+          "delta_cents": -0.5137990436801374,
+          "n": 201,
+          "native": true,
+          "n_native": 201
+        },
+        {
+          "label": "Fa\u2191",
+          "template_cents": 500.0,
+          "ok": true,
+          "matched_cents": 493.38714607377597,
+          "delta_cents": -6.612853926224034,
+          "n": 289,
+          "native": true,
+          "n_native": 288
+        },
+        {
+          "label": "Sol\u2191",
+          "template_cents": 700.0,
+          "ok": true,
+          "matched_cents": 701.4185124547525,
+          "delta_cents": 1.4185124547525447,
+          "n": 1488,
+          "native": true,
+          "n_native": 1488
+        },
+        {
+          "label": "La\u2191",
+          "template_cents": 900.0,
+          "ok": true,
+          "matched_cents": 898.428033200089,
+          "delta_cents": -1.5719667999110243,
+          "n": 94,
+          "native": true,
+          "n_native": 93
+        }
+      ],
+      "n_strikes": 3559,
+      "do_mode": "per_track_mahur_only"
+    },
+    "neydavud": {
+      "median_do": 266.34142527323286,
+      "do_drift_std_cents": 22.879192020806546,
+      "do_drift_range_cents": 62.469332396966095,
+      "n_tracks_used": 18,
+      "n_tracks_skipped": 25,
+      "details": [
+        {
+          "label": "Re\u2193",
+          "template_cents": -1000.0,
+          "ok": true,
+          "matched_cents": -1006.9751867672212,
+          "delta_cents": -6.975186767221203,
+          "n": 406,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Mi\u2193",
+          "template_cents": -900.0,
+          "ok": true,
+          "matched_cents": -919.3246800200584,
+          "delta_cents": -19.324680020058395,
+          "n": 73,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Fa",
+          "template_cents": -710.0,
+          "ok": true,
+          "matched_cents": -705.3199905098434,
+          "delta_cents": 4.680009490156635,
+          "n": 304,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Sol",
+          "template_cents": -490.0,
+          "ok": true,
+          "matched_cents": -490.91080617508896,
+          "delta_cents": -0.9108061750889647,
+          "n": 664,
+          "native": true,
+          "n_native": 16
+        },
+        {
+          "label": "La",
+          "template_cents": -300.0,
+          "ok": true,
+          "matched_cents": -303.28173447822064,
+          "delta_cents": -3.281734478220642,
+          "n": 193,
+          "native": true,
+          "n_native": 68
+        },
+        {
+          "label": "Si",
+          "template_cents": -210.0,
+          "ok": true,
+          "matched_cents": -214.57794839576945,
+          "delta_cents": -4.577948395769454,
+          "n": 112,
+          "native": true,
+          "n_native": 29
+        },
+        {
+          "label": "Si\u1d4f",
+          "template_cents": -115.0,
+          "ok": true,
+          "matched_cents": -106.52183179241138,
+          "delta_cents": 8.478168207588624,
+          "n": 140,
+          "native": true,
+          "n_native": 104
+        },
+        {
+          "label": "Do",
+          "template_cents": 0.0,
+          "ok": true,
+          "matched_cents": 0.0,
+          "delta_cents": 0.0,
+          "n": 502,
+          "native": true,
+          "n_native": 440
+        },
+        {
+          "label": "Re",
+          "template_cents": 200.0,
+          "ok": true,
+          "matched_cents": 193.0248132327788,
+          "delta_cents": -6.975186767221203,
+          "n": 406,
+          "native": true,
+          "n_native": 392
+        },
+        {
+          "label": "Mi",
+          "template_cents": 400.0,
+          "ok": true,
+          "matched_cents": 392.4099848018361,
+          "delta_cents": -7.590015198163883,
+          "n": 371,
+          "native": true,
+          "n_native": 349
+        },
+        {
+          "label": "Fa\u2191",
+          "template_cents": 500.0,
+          "ok": true,
+          "matched_cents": 494.68000949015664,
+          "delta_cents": -5.319990509843365,
+          "n": 304,
+          "native": true,
+          "n_native": 304
+        },
+        {
+          "label": "Sol\u2191",
+          "template_cents": 700.0,
+          "ok": true,
+          "matched_cents": 709.089193824911,
+          "delta_cents": 9.089193824911035,
+          "n": 664,
+          "native": true,
+          "n_native": 648
+        },
+        {
+          "label": "La\u2191",
+          "template_cents": 900.0,
+          "ok": true,
+          "matched_cents": 896.7182655217794,
+          "delta_cents": -3.281734478220642,
+          "n": 193,
+          "native": true,
+          "n_native": 124
+        }
+      ],
+      "n_strikes": 3102,
+      "do_mode": "per_track_quality_filtered"
+    },
+    "ebadi": {
+      "median_do": 253.01513671875,
+      "do_drift_std_cents": 6.403181373760298,
+      "do_drift_range_cents": 18.320107983972683,
+      "n_tracks_used": 30,
+      "n_tracks_skipped": 0,
+      "details": [
+        {
+          "label": "Re\u2193",
+          "template_cents": -1000.0,
+          "ok": true,
+          "matched_cents": -990.1161630224215,
+          "delta_cents": 9.88383697757854,
+          "n": 215,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Mi\u2193",
+          "template_cents": -900.0,
+          "ok": false,
+          "matched_cents": -854.2495358440508,
+          "delta_cents": 45.7504641559492,
+          "n": 9,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Fa",
+          "template_cents": -710.0,
+          "ok": true,
+          "matched_cents": -697.4830305558354,
+          "delta_cents": 12.516969444164602,
+          "n": 232,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Sol",
+          "template_cents": -490.0,
+          "ok": true,
+          "matched_cents": -498.22329329497825,
+          "delta_cents": -8.223293294978248,
+          "n": 167,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "La",
+          "template_cents": -300.0,
+          "ok": true,
+          "matched_cents": -286.55217814214825,
+          "delta_cents": 13.44782185785175,
+          "n": 89,
+          "native": true,
+          "n_native": 17
+        },
+        {
+          "label": "Si",
+          "template_cents": -210.0,
+          "ok": true,
+          "matched_cents": -230.4512983852187,
+          "delta_cents": -20.451298385218706,
+          "n": 25,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Si\u1d4f",
+          "template_cents": -115.0,
+          "ok": true,
+          "matched_cents": -76.83867945672716,
+          "delta_cents": 38.161320543272836,
+          "n": 66,
+          "native": true,
+          "n_native": 29
+        },
+        {
+          "label": "Do",
+          "template_cents": 0.0,
+          "ok": true,
+          "matched_cents": 0.0,
+          "delta_cents": 0.0,
+          "n": 467,
+          "native": true,
+          "n_native": 333
+        },
+        {
+          "label": "Re",
+          "template_cents": 200.0,
+          "ok": true,
+          "matched_cents": 209.88383697757854,
+          "delta_cents": 9.88383697757854,
+          "n": 215,
+          "native": true,
+          "n_native": 184
+        },
+        {
+          "label": "Mi",
+          "template_cents": 400.0,
+          "ok": true,
+          "matched_cents": 413.94681294471206,
+          "delta_cents": 13.946812944712065,
+          "n": 127,
+          "native": true,
+          "n_native": 127
+        },
+        {
+          "label": "Fa\u2191",
+          "template_cents": 500.0,
+          "ok": true,
+          "matched_cents": 502.5169694441646,
+          "delta_cents": 2.5169694441646016,
+          "n": 232,
+          "native": true,
+          "n_native": 232
+        },
+        {
+          "label": "Sol\u2191",
+          "template_cents": 700.0,
+          "ok": true,
+          "matched_cents": 701.7767067050216,
+          "delta_cents": 1.7767067050216383,
+          "n": 167,
+          "native": true,
+          "n_native": 167
+        },
+        {
+          "label": "La\u2191",
+          "template_cents": 900.0,
+          "ok": true,
+          "matched_cents": 913.4478218578517,
+          "delta_cents": 13.44782185785175,
+          "n": 89,
+          "native": true,
+          "n_native": 72
+        }
+      ],
+      "n_strikes": 1471,
+      "do_mode": "sliding_window_45s_hop_15s_mahur_only"
+    },
+    "kasaei_radif": {
+      "median_do": 370.7598426416748,
+      "do_drift_std_cents": 13.96249026924066,
+      "do_drift_range_cents": 71.49720292868746,
+      "n_tracks_used": 36,
+      "n_tracks_skipped": 18,
+      "details": [
+        {
+          "label": "Re\u2193",
+          "template_cents": -1000.0,
+          "ok": true,
+          "matched_cents": -997.9268474596838,
+          "delta_cents": 2.073152540316187,
+          "n": 267,
+          "native": true,
+          "n_native": 44
+        },
+        {
+          "label": "Mi\u2193",
+          "template_cents": -900.0,
+          "ok": true,
+          "matched_cents": -920.9374737086529,
+          "delta_cents": -20.937473708652874,
+          "n": 100,
+          "native": true,
+          "n_native": 46
+        },
+        {
+          "label": "Fa",
+          "template_cents": -710.0,
+          "ok": true,
+          "matched_cents": -701.1624755518438,
+          "delta_cents": 8.83752444815616,
+          "n": 862,
+          "native": true,
+          "n_native": 791
+        },
+        {
+          "label": "Sol",
+          "template_cents": -490.0,
+          "ok": true,
+          "matched_cents": -501.0373891428642,
+          "delta_cents": -11.037389142864185,
+          "n": 473,
+          "native": true,
+          "n_native": 467
+        },
+        {
+          "label": "La",
+          "template_cents": -300.0,
+          "ok": true,
+          "matched_cents": -290.11915733580145,
+          "delta_cents": 9.880842664198553,
+          "n": 577,
+          "native": true,
+          "n_native": 526
+        },
+        {
+          "label": "Si",
+          "template_cents": -210.0,
+          "ok": true,
+          "matched_cents": -202.64956065057152,
+          "delta_cents": 7.350439349428484,
+          "n": 583,
+          "native": true,
+          "n_native": 550
+        },
+        {
+          "label": "Si\u1d4f",
+          "template_cents": -115.0,
+          "ok": false,
+          "matched_cents": -158.20250405510376,
+          "delta_cents": -43.20250405510376,
+          "n": 51,
+          "native": true,
+          "n_native": 44
+        },
+        {
+          "label": "Do",
+          "template_cents": 0.0,
+          "ok": true,
+          "matched_cents": -0.4875989515460333,
+          "delta_cents": -0.4875989515460333,
+          "n": 1171,
+          "native": true,
+          "n_native": 956
+        },
+        {
+          "label": "Re",
+          "template_cents": 200.0,
+          "ok": true,
+          "matched_cents": 202.0731525403163,
+          "delta_cents": 2.0731525403163005,
+          "n": 267,
+          "native": true,
+          "n_native": 222
+        },
+        {
+          "label": "Mi",
+          "template_cents": 400.0,
+          "ok": true,
+          "matched_cents": 399.02301048270647,
+          "delta_cents": -0.9769895172935321,
+          "n": 141,
+          "native": true,
+          "n_native": 100
+        },
+        {
+          "label": "Fa\u2191",
+          "template_cents": 500.0,
+          "ok": true,
+          "matched_cents": 498.8375244481563,
+          "delta_cents": -1.1624755518437269,
+          "n": 862,
+          "native": true,
+          "n_native": 71
+        },
+        {
+          "label": "Sol\u2191",
+          "template_cents": 700.0,
+          "ok": true,
+          "matched_cents": 698.9626108571358,
+          "delta_cents": -1.0373891428641855,
+          "n": 473,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "La\u2191",
+          "template_cents": 900.0,
+          "ok": true,
+          "matched_cents": 909.8808426641986,
+          "delta_cents": 9.880842664198553,
+          "n": 577,
+          "native": true,
+          "n_native": 14
+        }
+      ],
+      "n_strikes": 4829,
+      "do_mode": "per_track_setar_mahoor_radif"
+    },
+    "saba": {
+      "median_do": 376.77786873935804,
+      "do_drift_std_cents": 6.2573789473729775,
+      "do_drift_range_cents": 24.128440607552058,
+      "n_tracks_used": 58,
+      "n_tracks_skipped": 0,
+      "details": [
+        {
+          "label": "Re\u2193",
+          "template_cents": -1000.0,
+          "ok": true,
+          "matched_cents": -1003.9275434623702,
+          "delta_cents": -3.9275434623701813,
+          "n": 52,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Mi\u2193",
+          "template_cents": -900.0,
+          "ok": true,
+          "matched_cents": -920.780110141879,
+          "delta_cents": -20.78011014187905,
+          "n": 21,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Fa",
+          "template_cents": -710.0,
+          "ok": true,
+          "matched_cents": -703.5365228863037,
+          "delta_cents": 6.463477113696285,
+          "n": 592,
+          "native": true,
+          "n_native": 542
+        },
+        {
+          "label": "Sol",
+          "template_cents": -490.0,
+          "ok": true,
+          "matched_cents": -500.83465327833414,
+          "delta_cents": -10.834653278334144,
+          "n": 89,
+          "native": true,
+          "n_native": 86
+        },
+        {
+          "label": "La",
+          "template_cents": -300.0,
+          "ok": true,
+          "matched_cents": -307.34514112433294,
+          "delta_cents": -7.34514112433294,
+          "n": 200,
+          "native": true,
+          "n_native": 200
+        },
+        {
+          "label": "Si",
+          "template_cents": -210.0,
+          "ok": true,
+          "matched_cents": -209.4292180513752,
+          "delta_cents": 0.5707819486248127,
+          "n": 181,
+          "native": true,
+          "n_native": 181
+        },
+        {
+          "label": "Si\u1d4f",
+          "template_cents": -115.0,
+          "ok": false,
+          "matched_cents": null,
+          "delta_cents": null,
+          "n": 0,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Do",
+          "template_cents": 0.0,
+          "ok": true,
+          "matched_cents": -0.003527576996020798,
+          "delta_cents": -0.003527576996020798,
+          "n": 943,
+          "native": true,
+          "n_native": 919
+        },
+        {
+          "label": "Re",
+          "template_cents": 200.0,
+          "ok": true,
+          "matched_cents": 196.07245653762988,
+          "delta_cents": -3.9275434623701244,
+          "n": 52,
+          "native": true,
+          "n_native": 50
+        },
+        {
+          "label": "Mi",
+          "template_cents": 400.0,
+          "ok": true,
+          "matched_cents": 386.91430148607594,
+          "delta_cents": -13.085698513924058,
+          "n": 58,
+          "native": true,
+          "n_native": 45
+        },
+        {
+          "label": "Fa\u2191",
+          "template_cents": 500.0,
+          "ok": true,
+          "matched_cents": 496.4634771136962,
+          "delta_cents": -3.5365228863038283,
+          "n": 592,
+          "native": true,
+          "n_native": 50
+        },
+        {
+          "label": "Sol\u2191",
+          "template_cents": 700.0,
+          "ok": true,
+          "matched_cents": 699.1653467216659,
+          "delta_cents": -0.8346532783341445,
+          "n": 89,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "La\u2191",
+          "template_cents": 900.0,
+          "ok": true,
+          "matched_cents": 892.6548588756671,
+          "delta_cents": -7.34514112433294,
+          "n": 200,
+          "native": false,
+          "n_native": 0
+        }
+      ],
+      "n_strikes": 2206,
+      "do_mode": "sliding_window_45s_hop_15s_setar_mahoor"
+    },
+    "karimi": {
+      "median_do": 200.5279541015625,
+      "do_drift_std_cents": 20.629845473919424,
+      "do_drift_range_cents": 64.67160959424234,
+      "n_tracks_used": 17,
+      "n_tracks_skipped": 3,
+      "details": [
+        {
+          "label": "Re\u2193",
+          "template_cents": -1000.0,
+          "ok": true,
+          "matched_cents": -1002.5570735857311,
+          "delta_cents": -2.557073585731132,
+          "n": 287,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Mi\u2193",
+          "template_cents": -900.0,
+          "ok": true,
+          "matched_cents": -923.2644862303005,
+          "delta_cents": -23.264486230300463,
+          "n": 108,
+          "native": false,
+          "n_native": 0
+        },
+        {
+          "label": "Fa",
+          "template_cents": -710.0,
+          "ok": true,
+          "matched_cents": -719.3544844995254,
+          "delta_cents": -9.35448449952537,
+          "n": 578,
+          "native": true,
+          "n_native": 129
+        },
+        {
+          "label": "Sol",
+          "template_cents": -490.0,
+          "ok": true,
+          "matched_cents": -501.9751575740456,
+          "delta_cents": -11.975157574045625,
+          "n": 489,
+          "native": true,
+          "n_native": 379
+        },
+        {
+          "label": "La",
+          "template_cents": -300.0,
+          "ok": true,
+          "matched_cents": -305.6376075187678,
+          "delta_cents": -5.6376075187678225,
+          "n": 470,
+          "native": true,
+          "n_native": 473
+        },
+        {
+          "label": "Si",
+          "template_cents": -210.0,
+          "ok": true,
+          "matched_cents": -212.76543816949197,
+          "delta_cents": -2.765438169491972,
+          "n": 535,
+          "native": true,
+          "n_native": 531
+        },
+        {
+          "label": "Si\u1d4f",
+          "template_cents": -115.0,
+          "ok": true,
+          "matched_cents": -110.11966798863318,
+          "delta_cents": 4.880332011366818,
+          "n": 47,
+          "native": true,
+          "n_native": 43
+        },
+        {
+          "label": "Do",
+          "template_cents": 0.0,
+          "ok": true,
+          "matched_cents": 0.0,
+          "delta_cents": 0.0,
+          "n": 706,
+          "native": true,
+          "n_native": 700
+        },
+        {
+          "label": "Re",
+          "template_cents": 200.0,
+          "ok": true,
+          "matched_cents": 197.44292641426887,
+          "delta_cents": -2.557073585731132,
+          "n": 287,
+          "native": true,
+          "n_native": 265
+        },
+        {
+          "label": "Mi",
+          "template_cents": 400.0,
+          "ok": true,
+          "matched_cents": 402.8355326100482,
+          "delta_cents": 2.835532610048176,
+          "n": 179,
+          "native": true,
+          "n_native": 133
+        },
+        {
+          "label": "Fa\u2191",
+          "template_cents": 500.0,
+          "ok": true,
+          "matched_cents": 480.64551550047463,
+          "delta_cents": -19.35448449952537,
+          "n": 572,
+          "native": true,
+          "n_native": 436
+        },
+        {
+          "label": "Sol\u2191",
+          "template_cents": 700.0,
+          "ok": true,
+          "matched_cents": 698.0248424259544,
+          "delta_cents": -1.9751575740456246,
+          "n": 489,
+          "native": true,
+          "n_native": 103
+        },
+        {
+          "label": "La\u2191",
+          "template_cents": 900.0,
+          "ok": true,
+          "matched_cents": 894.3623924812323,
+          "delta_cents": -5.637607518767709,
+          "n": 470,
+          "native": false,
+          "n_native": 0
+        }
+      ],
+      "n_strikes": 3999,
+      "do_mode": "per_track_vocal_mahur"
+    }
+  },
+  "lotfi_mahur_filter": {
+    "kept": [
+      "NA - Chaharmezrab Delkash [eOuJWJsMg7Q]",
+      "NA - Chaharmezrab [2btvT4nvQGc]",
+      "NA - Daramad Mahur [tx_Zm_LLFYE]",
+      "NA - Delkash Part I [t3A_w3lYkj8]",
+      "NA - Delkash Part II [e4rLCVnFhyo]",
+      "NA - Foroud [ND2LBrDWLI0]",
+      "NA - Foroud [VGKV9VFX3U4]",
+      "NA - Kereshmeh [K8D0Sg3DsPA]",
+      "NA - Zarbi [xTjZow2V5Z4]"
+    ],
+    "skipped_audio": [
+      {
+        "track": "NA - Chaharmezrab Foroud [yL5PGyIKPFk]",
+        "reasons": [
+          "Do drift -61\u00a2"
+        ],
+        "voice_score": 1.0,
+        "do": 307.966515455454
+      }
+    ],
+    "skipped_titles": [
+      "Unreleased",
+      "Mystery Of Love",
+      "In This New Love, Die.",
+      "Kharabat Khani",
+      "Zekr",
+      "Abstract Beauty",
+      "Pishdaramad",
+      "A Flower Tinted Cheek",
+      "Daramad Dashti",
+      "Dance Of Birds",
+      "Foroud Of Sarang",
+      "Owj",
+      "How Have I Felt Thy Pain.",
+      "Razavi",
+      "(unavailable)"
+    ],
+    "seed_do": 318.9325013802232
+  },
+  "forutan_filter": {
+    "source": "https://www.youtube.com/playlist?list=OLAK5uy_n89lv4AxI3_B7mklDEtXRPr5n9PgJMAiU",
+    "album": "Radif of Persian Music on Setar III \u2014 Yusef Forutan",
+    "seed_do": 224.8273327278039,
+    "kept": [
+      "01 - Mahur\uff1a Zarbi [wZyuy_wBmPY]",
+      "02 - Mahur\uff1a Moqaddame, Daramad [6VgxOTh_Dkc]",
+      "03 - Mahur\uff1a Kereshme [AtWxCeE20G8]",
+      "04 - Mahur\uff1a Avaz Chaharmezrab, Shekaste [7otCVJoRU2o]",
+      "05 - Mahur\uff1a Goshayesh [U4gw5DKp-0w]",
+      "06 - Mahur\uff1a Khosravani [JwG9J0RxJKs]",
+      "07 - Mahur\uff1a Feyli, Zirafkand [t_LgIMEGCls]",
+      "08 - Mahur\uff1a Khavaran [uD3Ewry1Ejc]",
+      "09 - Mahur\uff1a Shekaste, Chaharmezrab, Forud [7WPGv9rHGtM]",
+      "10 - Mahur\uff1a Delkash, Chaharmezrab, Forud [QIfIltpJmUw]",
+      "11 - Mahur\uff1a Chaharmezab [qGyYfDA-DdU]",
+      "12 - Mahur\uff1a Rak, Nowruze Arab, Zarbi, Forud [kxedw7Bxc-s]",
+      "13 - Mahur\uff1a Saqiname, Sufiname [OZ-BUXvcFvQ]",
+      "14 - Mahur\uff1a Harbi, Yek-Chubeh\u0648 Parts of Shahrashub [0APorXw8xTE]"
+    ],
+    "skipped_mahur_tracks": [],
+    "skipped_non_mahur": "tracks 15\u201328 Afshari / Bayat Esfahan / Nava (not downloaded)"
+  },
+  "neydavud_filter": {
+    "source": "https://www.youtube.com/playlist?list=OLAK5uy_m24pG0giA7K1Zp4f-YZkZbYIJJ8o2qATE",
+    "album": "Radif of Persian Music on Tar, Vol. 4 \u2014 Morteza Neydavud",
+    "seed_do": 262.4359130859375,
+    "median_do": 266.34142527323286,
+    "n_kept": 18,
+    "n_skipped": 23,
+    "missing_download": [
+      "07 Goshayesh",
+      "18 Azarbayejan"
+    ],
+    "skipped_tracks": [
+      {
+        "track": "09 - Mahur_ Khosravani",
+        "reasons": [
+          "Do shift/unstable (top=398.831686317116 drift=724.5778487893731)"
+        ]
+      },
+      {
+        "track": "11 - Mahur_ Delkash",
+        "reasons": [
+          "Do shift/unstable (top=402.1030106797725 drift=738.7199745744416)"
+        ]
+      },
+      {
+        "track": "13 - Mahur_ Khavarani",
+        "reasons": [
+          "Do shift/unstable (top=400.15505220121395 drift=730.3127579249856)"
+        ]
+      },
+      {
+        "track": "16 - Mahur_ Nahib",
+        "reasons": [
+          "Do shift/unstable (top=528.2272965239958 drift=1211.0324357088818)"
+        ]
+      },
+      {
+        "track": "19 - Mahur_ Feyli",
+        "reasons": [
+          "Do shift/unstable (top=403.59486318811116 drift=745.1311837734889)"
+        ]
+      },
+      {
+        "track": "20 - Mahur_ Zirafkand I",
+        "reasons": [
+          "Do shift/unstable (top=336.456298828125 drift=430.1447650949718)"
+        ]
+      },
+      {
+        "track": "24 - Mahur_ Nasirkhani",
+        "reasons": [
+          "Do shift/unstable (top=305.49767855940195 drift=263.03550949218294)"
+        ]
+      },
+      {
+        "track": "25 - Mahur_ Shekaste Nasirkhani",
+        "reasons": [
+          "Do shift/unstable (top=408.02504172805794 drift=764.0310457858988)"
+        ]
+      },
+      {
+        "track": "26 - Mahur_ Moradkhani",
+        "reasons": [
+          "Do shift/unstable (top=306.84814453125 drift=270.6716404981573)"
+        ]
+      },
+      {
+        "track": "27 - Mahur_ Abol",
+        "reasons": [
+          "Do shift/unstable (top=365.04851078041725 drift=571.3476421550466)"
+        ]
+      },
+      {
+        "track": "28 - Mahur_ Bastenegar",
+        "reasons": [
+          "Do shift/unstable (top=418.50399041914375 drift=807.9314634896792)"
+        ]
+      },
+      {
+        "track": "29 - Mahur_ Zangule I",
+        "reasons": [
+          "Do shift/unstable (top=418.7774073101142 drift=809.0621434482864)"
+        ]
+      },
+      {
+        "track": "30 - Mahur_ Naghme",
+        "reasons": [
+          "Do shift/unstable (top=348.5687255859375 drift=491.37356872433173)"
+        ]
+      },
+      {
+        "track": "31 - Mahur_ Zirafkand II",
+        "reasons": [
+          "Do shift/unstable (top=351.2603759765625 drift=504.69081938432845)"
+        ]
+      },
+      {
+        "track": "32 - Mahur_ Neyriz-\u200ce Saghir",
+        "reasons": [
+          "Do shift/unstable (top=340.4937744140625 drift=450.7959131336394)"
+        ]
+      },
+      {
+        "track": "34 - Mahur_ Araq",
+        "reasons": [
+          "Do shift/unstable (top=540.9543434735015 drift=1252.250011770256)"
+        ]
+      },
+      {
+        "track": "36 - Mahur_ Hazin",
+        "reasons": [
+          "Do shift/unstable (top=454.38844472535516 drift=950.3531852480246)"
+        ]
+      },
+      {
+        "track": "37 - Mahur_ Zangule II",
+        "reasons": [
+          "Do shift/unstable (top=409.4016199835326 drift=769.8619820927341)"
+        ]
+      },
+      {
+        "track": "38 - Mahur_ Rak I",
+        "reasons": [
+          "Do shift/unstable (top=515.7091922609474 drift=1169.5111221405516)"
+        ]
+      },
+      {
+        "track": "39 - Mahur_ Rak-\u200ce Saghir",
+        "reasons": [
+          "Do shift/unstable (top=516.1296811186371 drift=1170.9221266815969)"
+        ]
+      },
+      {
+        "track": "40 - Mahur_ Rak II",
+        "reasons": [
+          "Do shift/unstable (top=411.33185513848593 drift=778.0051737265882)"
+        ]
+      },
+      {
+        "track": "41 - Mahur_ Rak-\u200ce Abdollah",
+        "reasons": [
+          "Do shift/unstable (top=646.9004667312752 drift=1561.8943131998467)"
+        ]
+      },
+      {
+        "track": "42 - Mahur_ Rak-\u200ce Hendi",
+        "reasons": [
+          "Do shift/unstable (top=615.6969412743658 drift=1476.3062905052784)"
+        ]
+      }
+    ]
+  },
+  "ebadi_filter": {
+    "source": "https://www.youtube.com/watch?v=A9S5UGMcrkU",
+    "playlist": "https://www.youtube.com/playlist?list=PLscTeq_Q-8HBJzP8LqwF9T6lNO-bv_mi2",
+    "album": "Ahmad Ebadi, Setar Solo \u2014 Mahur only (skipped Shur/Dashti/\u2026)",
+    "seed_do": 253.01513671875,
+    "duration_s": 682.016507936508
+  },
+  "shahnazi_filter": {
+    "album": "The Advanced Shahnazi Radif III",
+    "artist": "Ali-Akbar Shahnazi",
+    "instrument": "tar",
+    "seed_do": 385.222820004913,
+    "median_do": 385.283550209542,
+    "kept_mahur_tracks": 23,
+    "skipped_homayun": 17,
+    "playlist": "https://www.youtube.com/playlist?list=OLAK5uy_kp6IaJ5pCmOujPZaaIcVVM25OOnDxsgig",
+    "note": "Mahur only (tracks 1\u201323); skip Homayun 24\u201340"
+  },
+  "kasaei_radif_filter": {
+    "album": "Iranian Classical Music Radifs 1 - Mahoor, Shur",
+    "artist": "Hassan Kasaei",
+    "instrument": "setar",
+    "seed_do": 370.8,
+    "median_do": 370.7598426416748,
+    "kept": [
+      {
+        "track": "01 - Mahoor_Introduction",
+        "do": 366.18913212861855,
+        "n": 109
+      },
+      {
+        "track": "02 - Mahoor_Daramad",
+        "do": 373.2867610145222,
+        "n": 179
+      },
+      {
+        "track": "03 - Mahoor_Kereshmeh",
+        "do": 369.9942225855749,
+        "n": 218
+      },
+      {
+        "track": "04 - Mahoor_Harbi",
+        "do": 369.80069037373283,
+        "n": 124
+      },
+      {
+        "track": "05 - Mahoor_Neyriz",
+        "do": 370.58386727127026,
+        "n": 173
+      },
+      {
+        "track": "08 - Mahoor_Rak-e Abdollah,Mehdi Zarrabi",
+        "do": 366.21600168900665,
+        "n": 186
+      },
+      {
+        "track": "09 - Mahoor_Goshayesh(Rast)",
+        "do": 370.8142487093005,
+        "n": 132
+      },
+      {
+        "track": "11 - Mahoor_Yatimak",
+        "do": 370.9939817341675,
+        "n": 226
+      },
+      {
+        "track": "12 - Mahoor_Hesar-e Mahur(Pas-e Mahur)",
+        "do": 370.70543657404914,
+        "n": 212
+      },
+      {
+        "track": "13 - Mahoor_Hazin",
+        "do": 371.1414024338188,
+        "n": 103
+      },
+      {
+        "track": "14 - Mahoor_Feyli(Panjgah)",
+        "do": 373.3648006385363,
+        "n": 132
+      },
+      {
+        "track": "15 - Mahoor_Majles Afrooz",
+        "do": 372.5800125855516,
+        "n": 54
+      },
+      {
+        "track": "16 - Mahoor_Shekasteh,Ouje shekasteh",
+        "do": 373.4557076785037,
+        "n": 85
+      },
+      {
+        "track": "17 - Mahoor_Qarebaghi",
+        "do": 373.858635010274,
+        "n": 122
+      },
+      {
+        "track": "18 - Mahoor_Busalik",
+        "do": 372.4773097676622,
+        "n": 153
+      },
+      {
+        "track": "19 - Mahoor_Chaharmezrab-e Delkash",
+        "do": 372.3873477222531,
+        "n": 204
+      },
+      {
+        "track": "20 - Mahoor_Shahr-e Ashub",
+        "do": 377.2777673152325,
+        "n": 28
+      },
+      {
+        "track": "21 - Mahoor_Qaracheh,Ruhol Arvah",
+        "do": 374.10396032656945,
+        "n": 113
+      },
+      {
+        "track": "22 - Mahoor_Razavi,Ruhol Arvah",
+        "do": 373.3212751295705,
+        "n": 91
+      },
+      {
+        "track": "23 - Mahoor_Javadkhani,Forud",
+        "do": 371.9102848591573,
+        "n": 152
+      },
+      {
+        "track": "24 - Mahoor_Majles Afrooz(Noi Digar)",
+        "do": 371.1943468300907,
+        "n": 122
+      },
+      {
+        "track": "25 - Mahoor_Mahur-e Saghir",
+        "do": 371.1238861215005,
+        "n": 100
+      },
+      {
+        "track": "26 - Mahoor_Mohayyar",
+        "do": 369.54562939597406,
+        "n": 43
+      },
+      {
+        "track": "27 - Mahoor_Rak(Hendi)",
+        "do": 371.3056293032041,
+        "n": 84
+      },
+      {
+        "track": "29 - Mahoor_Safir-e Rak",
+        "do": 367.6342449935571,
+        "n": 56
+      },
+      {
+        "track": "30 - Mahoor_Rak-e Keshmir(Kereshmeh)",
+        "do": 362.0141486133779,
+        "n": 54
+      },
+      {
+        "track": "31 - Mahoor_Masnavi,Rak-e Forud",
+        "do": 366.83358718918583,
+        "n": 202
+      },
+      {
+        "track": "34 - Mahoor_Gharai,Forud",
+        "do": 369.9480057923617,
+        "n": 183
+      },
+      {
+        "track": "35 - Mahoor_Azerbaijani(Moradkhani)",
+        "do": 368.06415859543006,
+        "n": 183
+      },
+      {
+        "track": "36 - Mahoor_Joghatai",
+        "do": 370.1371264498657,
+        "n": 98
+      },
+      {
+        "track": "37 - Mahoor_Toosi",
+        "do": 371.4971264079719,
+        "n": 117
+      },
+      {
+        "track": "38 - Mahoor_Baqdadi(Nasirkhani)",
+        "do": 367.7102132386853,
+        "n": 181
+      },
+      {
+        "track": "40 - Mahoor_Saghi Nameh",
+        "do": 368.2692490261368,
+        "n": 48
+      },
+      {
+        "track": "41 - Mahoor_Sufi Nameh",
+        "do": 365.8152954059782,
+        "n": 115
+      },
+      {
+        "track": "42 - Mahoor_Shahnameh Khani",
+        "do": 366.2138970807137,
+        "n": 184
+      },
+      {
+        "track": "43 - Mahoor_Masnavi",
+        "do": 367.2507850666559,
+        "n": 263
+      }
+    ],
+    "skipped": [
+      "06 - Mahoor_Gusheh-ye Neyriz",
+      "07 - Mahoor_Dad",
+      "10 - Mahoor_Naghmeh-ye Goshayesh",
+      "28 - Mahoor_Sepehr",
+      "32 - Mahoor_Nahib",
+      "33 - Mahoor_Araq,Majosli",
+      "39 - Mahoor_Khorramabadi"
+    ],
+    "skipped_shur": 11,
+    "playlist": "https://www.youtube.com/playlist?list=OLAK5uy_kombsv6vIFDKsGMN4lgrLVU7A__TbZQYs",
+    "note": "Mahoor only (1\u201343); skip Shur. Instrument: setar."
+  },
+  "saba_filter": {
+    "album": "Setar by Saba",
+    "artist": "Abolhasan Saba",
+    "instrument": "setar",
+    "seed_do": 376.6,
+    "median_do": 376.77786873935804,
+    "url": "https://www.youtube.com/watch?v=is3aQMwHKto",
+    "note": "continuous Mahoor solo ~17 min"
+  },
+  "karimi_filter": {
+    "album": "Avaz Course: Vocal Radif of Persian Classical Music, Vol. 3",
+    "artist": "Mahmud Karimi",
+    "instrument": "voice",
+    "seed_do": 200.5279541015625,
+    "median_do": 200.5279541015625,
+    "kept": [
+      {
+        "track": "13 - Mahur_ Dad",
+        "do": 197.8363037109375,
+        "n": 172
+      },
+      {
+        "track": "14 - Mahur_ Hesar-e Mahur",
+        "do": 200.5279541015625,
+        "n": 243
+      },
+      {
+        "track": "15 - Mahur_ Feyli",
+        "do": 201.873779296875,
+        "n": 123
+      },
+      {
+        "track": "16 - Mahur_ Shekaste",
+        "do": 201.873779296875,
+        "n": 229
+      },
+      {
+        "track": "17 - Mahur_ Delkash",
+        "do": 201.873779296875,
+        "n": 359
+      },
+      {
+        "track": "18 - Mahur_ Neyshaburak",
+        "do": 199.18212890625,
+        "n": 159
+      },
+      {
+        "track": "19 - Mahur_ Neyriz",
+        "do": 199.18212890625,
+        "n": 136
+      },
+      {
+        "track": "20 - Mahur_ Moradkhani or Azarbayejani",
+        "do": 200.7106453045461,
+        "n": 377
+      },
+      {
+        "track": "21 - Mahur_ Tusi",
+        "do": 200.5279541015625,
+        "n": 105
+      },
+      {
+        "track": "22 - Mahur_ Nasirkhani",
+        "do": 200.5279541015625,
+        "n": 179
+      },
+      {
+        "track": "23 - Mahur_ Khavaran",
+        "do": 201.873779296875,
+        "n": 152
+      },
+      {
+        "track": "24 - Mahur_ Nahib (Araq), Mohayyer, Ashur, Hazin, Forud",
+        "do": 200.5279541015625,
+        "n": 488
+      },
+      {
+        "track": "26 - Mahur_ Safir-\u200ce Rak",
+        "do": 198.64464013554675,
+        "n": 77
+      },
+      {
+        "track": "27 - Mahur_ Rak-\u200ce Abdollah",
+        "do": 194.47174072265625,
+        "n": 152
+      },
+      {
+        "track": "28 - Mahur_ Rak-\u200ce Keshmir",
+        "do": 199.18212890625,
+        "n": 155
+      },
+      {
+        "track": "29 - Mahur_ Saghiname, Sufiname, Koshte",
+        "do": 195.1446533203125,
+        "n": 556
+      },
+      {
+        "track": "30 - Mahur_ Masnavi",
+        "do": 195.1446533203125,
+        "n": 337
+      }
+    ],
+    "skipped": [
+      "11 - Mahur_ Daramad",
+      "12 - Mahur_ Goshayesh",
+      "25 - Mahur_ Rak-\u200ce Hendi"
+    ],
+    "skipped_non_mahur": [
+      "Chahargah 1\u201310",
+      "Rast-Panjgah 31\u201344"
+    ],
+    "playlist": "https://www.youtube.com/playlist?list=OLAK5uy_m4dCFMnjQWeftOYFJ5gTkk7flPWpkbA4w",
+    "note": "Mahur only (tracks 11\u201330); vocal radif"
+  }
+}

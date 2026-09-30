@@ -1,0 +1,105 @@
+{
+  "album": "Avaz Course: Vocal Radif of Persian Classical Music, Vol. 3",
+  "artist": "Mahmud Karimi",
+  "instrument": "voice",
+  "seed_do": 200.5279541015625,
+  "median_do": 200.5279541015625,
+  "kept": [
+    {
+      "track": "13 - Mahur_ Dad",
+      "do": 197.8363037109375,
+      "n": 172
+    },
+    {
+      "track": "14 - Mahur_ Hesar-e Mahur",
+      "do": 200.5279541015625,
+      "n": 243
+    },
+    {
+      "track": "15 - Mahur_ Feyli",
+      "do": 201.873779296875,
+      "n": 123
+    },
+    {
+      "track": "16 - Mahur_ Shekaste",
+      "do": 201.873779296875,
+      "n": 229
+    },
+    {
+      "track": "17 - Mahur_ Delkash",
+      "do": 201.873779296875,
+      "n": 359
+    },
+    {
+      "track": "18 - Mahur_ Neyshaburak",
+      "do": 199.18212890625,
+      "n": 159
+    },
+    {
+      "track": "19 - Mahur_ Neyriz",
+      "do": 199.18212890625,
+      "n": 136
+    },
+    {
+      "track": "20 - Mahur_ Moradkhani or Azarbayejani",
+      "do": 200.7106453045461,
+      "n": 377
+    },
+    {
+      "track": "21 - Mahur_ Tusi",
+      "do": 200.5279541015625,
+      "n": 105
+    },
+    {
+      "track": "22 - Mahur_ Nasirkhani",
+      "do": 200.5279541015625,
+      "n": 179
+    },
+    {
+      "track": "23 - Mahur_ Khavaran",
+      "do": 201.873779296875,
+      "n": 152
+    },
+    {
+      "track": "24 - Mahur_ Nahib (Araq), Mohayyer, Ashur, Hazin, Forud",
+      "do": 200.5279541015625,
+      "n": 488
+    },
+    {
+      "track": "26 - Mahur_ Safir-\u200ce Rak",
+      "do": 198.64464013554675,
+      "n": 77
+    },
+    {
+      "track": "27 - Mahur_ Rak-\u200ce Abdollah",
+      "do": 194.47174072265625,
+      "n": 152
+    },
+    {
+      "track": "28 - Mahur_ Rak-\u200ce Keshmir",
+      "do": 199.18212890625,
+      "n": 155
+    },
+    {
+      "track": "29 - Mahur_ Saghiname, Sufiname, Koshte",
+      "do": 195.1446533203125,
+      "n": 556
+    },
+    {
+      "track": "30 - Mahur_ Masnavi",
+      "do": 195.1446533203125,
+      "n": 337
+    }
+  ],
+  "skipped": [
+    "11 - Mahur_ Daramad",
+    "12 - Mahur_ Goshayesh",
+    "25 - Mahur_ Rak-\u200ce Hendi"
+  ],
+  "skipped_non_mahur": [
+    "Chahargah 1\u201310",
+    "Rast-Panjgah 31\u201344"
+  ],
+  "playlist": "https://www.youtube.com/playlist?list=OLAK5uy_m4dCFMnjQWeftOYFJ5gTkk7flPWpkbA4w",
+  "note": "Mahur only (tracks 11\u201330); vocal radif"
+}

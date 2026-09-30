@@ -1,0 +1,8 @@
+audioflux
+muget
+numpy
+scipy
+soundfile
+matplotlib
+jupyter
+ipykernel

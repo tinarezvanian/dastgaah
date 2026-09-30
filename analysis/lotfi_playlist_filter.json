@@ -1,0 +1,224 @@
+{
+  "source": "https://www.youtube.com/playlist?list=PLQp0EnRwwR1eJdcUqgAXgVMq3D0ysgH2W",
+  "seed_do": 318.9325013802232,
+  "curated_downloaded": [
+    "NA - Chaharmezrab Delkash [eOuJWJsMg7Q].wav",
+    "NA - Chaharmezrab Foroud [yL5PGyIKPFk].wav",
+    "NA - Chaharmezrab [2btvT4nvQGc].wav",
+    "NA - Daramad Mahur [tx_Zm_LLFYE].wav",
+    "NA - Delkash Part I [t3A_w3lYkj8].wav",
+    "NA - Delkash Part II [e4rLCVnFhyo].wav",
+    "NA - Foroud [ND2LBrDWLI0].wav",
+    "NA - Foroud [VGKV9VFX3U4].wav",
+    "NA - Kereshmeh [K8D0Sg3DsPA].wav",
+    "NA - Zarbi [xTjZow2V5Z4].wav"
+  ],
+  "title_skipped_not_downloaded": [
+    "Unreleased",
+    "Mystery Of Love",
+    "In This New Love, Die.",
+    "Kharabat Khani",
+    "Zekr",
+    "Abstract Beauty",
+    "Pishdaramad",
+    "A Flower Tinted Cheek",
+    "Daramad Dashti",
+    "Dance Of Birds",
+    "Foroud Of Sarang",
+    "Owj",
+    "How Have I Felt Thy Pain.",
+    "Razavi",
+    "(unavailable)"
+  ],
+  "kept": [
+    {
+      "track": "NA - Chaharmezrab Delkash [eOuJWJsMg7Q]",
+      "do": 318.7926947434929,
+      "n_strikes": 310,
+      "onset_rate": 3.5552293663970866,
+      "voice_score": 0.0
+    },
+    {
+      "track": "NA - Chaharmezrab [2btvT4nvQGc]",
+      "do": 318.3821571262282,
+      "n_strikes": 438,
+      "onset_rate": 4.2056641143721905,
+      "voice_score": 0.0
+    },
+    {
+      "track": "NA - Daramad Mahur [tx_Zm_LLFYE]",
+      "do": 318.9325013802232,
+      "n_strikes": 274,
+      "onset_rate": 2.668017926098013,
+      "voice_score": 1.0
+    },
+    {
+      "track": "NA - Delkash Part I [t3A_w3lYkj8]",
+      "do": 318.8946495086844,
+      "n_strikes": 197,
+      "onset_rate": 3.366004704934611,
+      "voice_score": 0.0
+    },
+    {
+      "track": "NA - Delkash Part II [e4rLCVnFhyo]",
+      "do": 318.73006745706664,
+      "n_strikes": 349,
+      "onset_rate": 3.4056678806898337,
+      "voice_score": 1.0
+    },
+    {
+      "track": "NA - Foroud [ND2LBrDWLI0]",
+      "do": 317.3780988718367,
+      "n_strikes": 213,
+      "onset_rate": 3.5067695214105794,
+      "voice_score": 0.0
+    },
+    {
+      "track": "NA - Foroud [VGKV9VFX3U4]",
+      "do": 318.66249774797046,
+      "n_strikes": 249,
+      "onset_rate": 3.368089908483799,
+      "voice_score": 1.0
+    },
+    {
+      "track": "NA - Kereshmeh [K8D0Sg3DsPA]",
+      "do": 318.62839884850973,
+      "n_strikes": 121,
+      "onset_rate": 2.9944511355815555,
+      "voice_score": 0.0
+    },
+    {
+      "track": "NA - Zarbi [xTjZow2V5Z4]",
+      "do": 319.4613699205512,
+      "n_strikes": 337,
+      "onset_rate": 3.320177836951095,
+      "voice_score": 0.0
+    }
+  ],
+  "skipped": [
+    {
+      "track": "NA - Chaharmezrab Foroud [yL5PGyIKPFk]",
+      "reasons": [
+        "Do drift -61\u00a2"
+      ],
+      "voice_score": 1.0,
+      "do": 307.966515455454
+    }
+  ],
+  "details": [
+    {
+      "label": "Re\u2193",
+      "template_cents": -1000.0,
+      "ok": true,
+      "matched_cents": -1008.3792573373617,
+      "delta_cents": -8.37925733736165,
+      "n": 59
+    },
+    {
+      "label": "Mi\u2193",
+      "template_cents": -900.0,
+      "ok": true,
+      "matched_cents": -914.6782004974874,
+      "delta_cents": -14.67820049748741,
+      "n": 9
+    },
+    {
+      "label": "Mi\u266d\u2193",
+      "template_cents": -800.0,
+      "ok": true,
+      "matched_cents": -781.2739364290478,
+      "delta_cents": 18.726063570952192,
+      "n": 46
+    },
+    {
+      "label": "Fa",
+      "template_cents": -710.0,
+      "ok": true,
+      "matched_cents": -702.1845043816888,
+      "delta_cents": 7.815495618311161,
+      "n": 740
+    },
+    {
+      "label": "Sol",
+      "template_cents": -490.0,
+      "ok": true,
+      "matched_cents": -499.10662843725817,
+      "delta_cents": -9.106628437258166,
+      "n": 123
+    },
+    {
+      "label": "La",
+      "template_cents": -300.0,
+      "ok": true,
+      "matched_cents": -297.55440124821973,
+      "delta_cents": 2.445598751780267,
+      "n": 177
+    },
+    {
+      "label": "Si",
+      "template_cents": -210.0,
+      "ok": true,
+      "matched_cents": -198.58739243145203,
+      "delta_cents": 11.412607568547969,
+      "n": 279
+    },
+    {
+      "label": "Si\u1d4f",
+      "template_cents": -115.0,
+      "ok": true,
+      "matched_cents": -82.5966133554078,
+      "delta_cents": 32.4033866445922,
+      "n": 62
+    },
+    {
+      "label": "Do",
+      "template_cents": 0.0,
+      "ok": true,
+      "matched_cents": 0.0,
+      "delta_cents": 0.0,
+      "n": 626
+    },
+    {
+      "label": "Re",
+      "template_cents": 200.0,
+      "ok": true,
+      "matched_cents": 205.50207506257274,
+      "delta_cents": 5.502075062572743,
+      "n": 32
+    },
+    {
+      "label": "Mi",
+      "template_cents": 400.0,
+      "ok": true,
+      "matched_cents": 402.14662176334576,
+      "delta_cents": 2.146621763345763,
+      "n": 23
+    },
+    {
+      "label": "Fa\u2191",
+      "template_cents": 500.0,
+      "ok": true,
+      "matched_cents": 494.9531042581664,
+      "delta_cents": -5.046895741833623,
+      "n": 55
+    },
+    {
+      "label": "Sol\u2191",
+      "template_cents": 700.0,
+      "ok": true,
+      "matched_cents": 698.4654771376349,
+      "delta_cents": -1.5345228623650655,
+      "n": 16
+    },
+    {
+      "label": "La\u2191",
+      "template_cents": 900.0,
+      "ok": false,
+      "matched_cents": null,
+      "delta_cents": null,
+      "n": 0
+    }
+  ],
+  "n_strikes": 2488,
+  "median_do": 318.73006745706664
+}

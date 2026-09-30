@@ -1,0 +1,29 @@
+# Best-guess Mahur setar tuning from dastgaah latch (Sep 2026).
+# Intervals are cents vs local Do. Absolute Hz use reference Do columns —
+# retune by scaling: hz = do_hz * 2^(cents/1200).
+# Open-string layout assumed: melody Do / Do / Sol(=3/4) / bam Do↓ (C–G–C–C style when Do≈C).
+# Koron (ᵏ) rows are provisional until dedicated fret survey.
+#
+# confidence: high = strong multi-artist latch + theory; mid = good latch / compromise;
+#             low = sparse or estimated koron.
+#
+type,degree,cents_vs_do,ratio,hz_at_do_261.63,hz_at_do_330,hz_at_do_326.4,confidence,basis,notes
+open_string,Do (melody),0.0,1/1,261.63,330.00,326.40,high,definition,Open melody string = Do (shahed)
+open_string,Do (drone),0.0,1/1,261.63,330.00,326.40,high,definition,Sympathetic / second Do string
+open_string,Sol, -498.045,3/4,196.00,247.50,244.80,high,pure_P4_consensus≈−499.5,Fourth below Do — open third string in C–G–C–C
+open_string,Do↓ (bam),-1200.0,1/2,130.81,165.00,163.20,high,octave,Bass bam an octave below melody Do
+degree,Fa↓,-701.955,2/3,174.61,220.00,217.60,high,pure_P5_consensus≈−703.5,Fifth below Do; often heard as open-ish / low Fa
+degree,Sol↓,-498.045,3/4,196.00,247.50,244.80,high,pure_P4=open_Sol,Same as open Sol string
+degree,La↓,-294.135,27/32,220.00,277.72,274.69,high,9/8×3/4_fret_forced_consensus≈−299.6,Same fret as Re on Sol string → 27/32
+degree,Si↓,-210.0,approx,231.75,292.37,289.18,mid,consensus≈−209.4,Major-ish 2nd below Do (~8/9=−204); not pure lattice
+degree,Siᵏ↓,-99.0,approx,247.07,311.72,308.32,low,consensus_Siᵏ≈−99_n=8,Koron below Do — provisional
+degree,Do,0.0,1/1,261.63,330.00,326.40,high,definition,Tonic / shahed
+degree,Reᵏ,+95.0,approx,276.40,348.65,344.85,low,estimate_koron,Koron between Do–Re — provisional (little direct latch)
+degree,Re,+203.910,9/8,294.33,371.25,367.20,high,pythag_M2_consensus≈+201.4,Major second; fretted Re
+degree,Miᵏ,+290.0,approx,309.04,390.00,385.75,low,estimate_~+280–300_cluster,Koron / neutral between Re–Mi — provisional
+degree,Mi,+400.0,approx_ET_M3,329.63,415.89,411.36,mid,consensus≈+399.5_between_5/4_&_81/64,Major third; frets compromise ≈ET (5/4=+386; 81/64=+408)
+degree,Fa↑,+498.045,4/3,349.23,440.00,435.20,high,pure_P4_up_consensus≈+496.5,Fourth above Do
+degree,Sol↑,+701.955,3/2,392.00,495.00,489.60,high,pure_P5_up_consensus≈+700.5,Fifth above Do
+degree,La↑,+905.865,27/16,440.00,555.43,549.38,high,octave_of_27/32,Octave of La↓; may drift slightly vs low La in practice
+degree,Si↑,+990.0,approx,462.00,582.90,576.54,low,Si↓+1200,Octave of Si↓ — provisional
+degree,Do↑,+1200.0,2/1,523.25,660.00,652.80,high,octave,Octave above Do

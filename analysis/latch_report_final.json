@@ -1,0 +1,274 @@
+{
+  "musical_seed_refs": {
+    "nariman": 265.7,
+    "alizadeh": 331.6,
+    "shekarchi": 442.8
+  },
+  "slots": [
+    {
+      "label": "REF",
+      "cents": 0.0
+    },
+    {
+      "label": "~koron",
+      "cents": -115.0
+    },
+    {
+      "label": "~M2",
+      "cents": -210.0
+    },
+    {
+      "label": "~m3",
+      "cents": -300.0
+    },
+    {
+      "label": "~P4",
+      "cents": -490.0
+    },
+    {
+      "label": "~P5",
+      "cents": -710.0
+    }
+  ],
+  "dropped": [],
+  "perfect": true,
+  "albums": {
+    "nariman": {
+      "ref": 266.1937686073574,
+      "key": [
+        6,
+        -7.021276595743416,
+        -30.42553191489214
+      ],
+      "n_ok": 6,
+      "max_abs_delta": 7.021276595743416,
+      "details": [
+        {
+          "label": "REF",
+          "template_cents": 0.0,
+          "expect_hz": 266.1937686073574,
+          "matched_hz": 265.475015161695,
+          "matched_cents": -4.680851063830595,
+          "delta_cents": -4.680851063830595,
+          "n": 1192,
+          "gushehs": 20,
+          "ok": true
+        },
+        {
+          "label": "~koron",
+          "template_cents": -115.0,
+          "expect_hz": 249.08591875697934,
+          "matched_hz": 249.76029996857284,
+          "matched_cents": -110.31914893616992,
+          "delta_cents": 4.680851063830076,
+          "n": 299,
+          "gushehs": 17,
+          "ok": true
+        },
+        {
+          "label": "~M2",
+          "template_cents": -210.0,
+          "expect_hz": 235.78579401984683,
+          "matched_hz": 235.14914556343632,
+          "matched_cents": -214.68085106382935,
+          "delta_cents": -4.680851063829351,
+          "n": 214,
+          "gushehs": 18,
+          "ok": true
+        },
+        {
+          "label": "~m3",
+          "template_cents": -300.0,
+          "expect_hz": 223.8413857848036,
+          "matched_hz": 224.751051136764,
+          "matched_cents": -292.9787234042566,
+          "delta_cents": 7.021276595743416,
+          "n": 433,
+          "gushehs": 18,
+          "ok": true
+        },
+        {
+          "label": "~P4",
+          "template_cents": -490.0,
+          "expect_hz": 200.57523199140633,
+          "matched_hz": 201.1182742020661,
+          "matched_cents": -485.31914893617005,
+          "delta_cents": 4.680851063829948,
+          "n": 1385,
+          "gushehs": 20,
+          "ok": true
+        },
+        {
+          "label": "~P5",
+          "template_cents": -710.0,
+          "expect_hz": 176.63976190346202,
+          "matched_hz": 176.16281445960084,
+          "matched_cents": -714.6808510638288,
+          "delta_cents": -4.680851063828754,
+          "n": 713,
+          "gushehs": 18,
+          "ok": true
+        }
+      ],
+      "shift_cents": 3.2142857142858423
+    },
+    "alizadeh": {
+      "ref": 332.2162351155428,
+      "key": [
+        6,
+        -2.340425531915116,
+        -4.680851063833276
+      ],
+      "n_ok": 6,
+      "max_abs_delta": 2.340425531915116,
+      "details": [
+        {
+          "label": "REF",
+          "template_cents": 0.0,
+          "expect_hz": 332.2162351155428,
+          "matched_hz": 332.21623511554253,
+          "matched_cents": -1.5376447218311611e-12,
+          "delta_cents": -1.5376447218311611e-12,
+          "n": 3485,
+          "gushehs": 36,
+          "ok": true
+        },
+        {
+          "label": "~koron",
+          "template_cents": -115.0,
+          "expect_hz": 310.8652264200766,
+          "matched_hz": 311.2857639671607,
+          "matched_cents": -112.65957446808588,
+          "delta_cents": 2.3404255319141214,
+          "n": 57,
+          "gushehs": 8,
+          "ok": true
+        },
+        {
+          "label": "~M2",
+          "template_cents": -210.0,
+          "expect_hz": 294.2663503838209,
+          "matched_hz": 294.2663503838212,
+          "matched_cents": -209.99999999999818,
+          "delta_cents": 1.8189894035458565e-12,
+          "n": 416,
+          "gushehs": 28,
+          "ok": true
+        },
+        {
+          "label": "~m3",
+          "template_cents": -300.0,
+          "expect_hz": 279.3594411977451,
+          "matched_hz": 278.98203513632143,
+          "matched_cents": -302.3404255319151,
+          "delta_cents": -2.340425531915116,
+          "n": 279,
+          "gushehs": 30,
+          "ok": true
+        },
+        {
+          "label": "~P4",
+          "template_cents": -490.0,
+          "expect_hz": 250.32272084437466,
+          "matched_hz": 250.3227208443746,
+          "matched_cents": -490.00000000000034,
+          "delta_cents": -3.410605131648481e-13,
+          "n": 245,
+          "gushehs": 28,
+          "ok": true
+        },
+        {
+          "label": "~P5",
+          "template_cents": -710.0,
+          "expect_hz": 220.45067763337602,
+          "matched_hz": 220.45067763337605,
+          "matched_cents": -709.9999999999997,
+          "delta_cents": 3.410605131648481e-13,
+          "n": 83,
+          "gushehs": 25,
+          "ok": true
+        }
+      ],
+      "shift_cents": 386.7892205205785
+    },
+    "shekarchi": {
+      "ref": 441.1588048679669,
+      "key": [
+        6,
+        -34.07175260114991,
+        -59.81643345221478
+      ],
+      "n_ok": 6,
+      "max_abs_delta": 34.07175260114991,
+      "details": [
+        {
+          "label": "REF",
+          "template_cents": 0.0,
+          "expect_hz": 441.1588048679669,
+          "matched_hz": 443.5508465587667,
+          "matched_cents": 9.361702127658544,
+          "delta_cents": 9.361702127658544,
+          "n": 867,
+          "gushehs": 31,
+          "ok": true
+        },
+        {
+          "label": "~koron",
+          "template_cents": -115.0,
+          "expect_hz": 412.8062306009643,
+          "matched_hz": 404.76137321476637,
+          "matched_cents": -149.0717526011499,
+          "delta_cents": -34.07175260114991,
+          "n": 65,
+          "gushehs": 14,
+          "ok": true
+        },
+        {
+          "label": "~M2",
+          "template_cents": -210.0,
+          "expect_hz": 390.76414011806145,
+          "matched_hz": 390.23622971548036,
+          "matched_cents": -212.34042553191432,
+          "delta_cents": -2.3404255319143203,
+          "n": 637,
+          "gushehs": 31,
+          "ok": true
+        },
+        {
+          "label": "~m3",
+          "template_cents": -300.0,
+          "expect_hz": 370.96885757108635,
+          "matched_hz": 368.96824596097855,
+          "matched_cents": -309.3617021276608,
+          "delta_cents": -9.361702127660806,
+          "n": 105,
+          "gushehs": 21,
+          "ok": true
+        },
+        {
+          "label": "~P4",
+          "template_cents": -490.0,
+          "expect_hz": 332.4102216756337,
+          "matched_hz": 332.41022167563335,
+          "matched_cents": -490.0000000000019,
+          "delta_cents": -1.8758328224066645e-12,
+          "n": 69,
+          "gushehs": 14,
+          "ok": true
+        },
+        {
+          "label": "~P5",
+          "template_cents": -710.0,
+          "expect_hz": 292.7423382642613,
+          "matched_hz": 293.53491591677783,
+          "matched_cents": -705.3191489361707,
+          "delta_cents": 4.680851063829323,
+          "n": 238,
+          "gushehs": 22,
+          "ok": true
+        }
+      ],
+      "shift_cents": 877.7998217206836
+    }
+  }
+}

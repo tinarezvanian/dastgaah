@@ -1,0 +1,58 @@
+Slot viability at musical REFs:
+  ✓ nariman   REF      Δ=  -2.3¢  n=1193 g=20/20
+  ✓ alizadeh  REF      Δ=  -0.0¢  n=3494 g=36/36
+  ✓ shekarchi REF      Δ=  +2.3¢  n= 866 g=31/33
+  ✓ nariman   ~koron   Δ= +11.7¢  n= 302 g=17/20
+  ✓ alizadeh  ~koron   Δ=  -4.7¢  n=  58 g= 7/36
+  ✗ shekarchi ~koron    (no peak)
+  ✓ nariman   ~M2      Δ=  -0.0¢  n= 212 g=18/20
+  ✓ alizadeh  ~M2      Δ=  +2.3¢  n= 415 g=28/36
+  ✓ shekarchi ~M2      Δ=  -2.3¢  n= 636 g=31/33
+  ✓ nariman   ~m3      Δ=  +9.4¢  n= 432 g=18/20
+  ✓ alizadeh  ~m3      Δ=  -0.0¢  n= 279 g=30/36
+  ✓ shekarchi ~m3      Δ=  -9.4¢  n= 106 g=21/33
+  ✓ nariman   ~P4      Δ=  +7.0¢  n=1386 g=20/20
+  ✓ alizadeh  ~P4      Δ=  -0.0¢  n= 245 g=28/36
+  ✓ shekarchi ~P4      Δ=  -7.0¢  n=  69 g=14/33
+  ✓ nariman   ~P5      Δ=  -2.3¢  n= 713 g=18/20
+  ✓ alizadeh  ~P5      Δ=  +2.3¢  n=  83 g=25/36
+  ✓ shekarchi ~P5      Δ=  +4.7¢  n= 241 g=23/33
+  ✓ nariman   ~P5-m6   Δ=  +2.3¢  n= 636 g=18/20
+  ✗ alizadeh  ~P5-m6    (no peak)
+  ✓ shekarchi ~P5-m6   Δ=  -8.6¢  n=   7 g= 5/33
+  ✓ nariman   ~M6      Δ= +21.1¢  n= 160 g=17/20
+  ✗ alizadeh  ~M6       (no peak)
+  ✓ shekarchi ~M6      Δ= -11.7¢  n=  35 g=14/33
+
+Largest perfect set size=6: ['REF', '~koron', '~M2', '~m3', '~P4', '~P5']
+
+nariman: REF=266.19  ok=6/6  max|Δ|=7.0¢  shift=+3.2¢
+  ✓ REF      ¢=   -4.7  Δ=  -4.7  n=1192 g=20
+  ✓ ~koron   ¢= -110.3  Δ=  +4.7  n=299 g=17
+  ✓ ~M2      ¢= -214.7  Δ=  -4.7  n=214 g=18
+  ✓ ~m3      ¢= -293.0  Δ=  +7.0  n=433 g=18
+  ✓ ~P4      ¢= -485.3  Δ=  +4.7  n=1385 g=20
+  ✓ ~P5      ¢= -714.7  Δ=  -4.7  n=713 g=18
+
+alizadeh: REF=332.22  ok=6/6  max|Δ|=2.3¢  shift=+386.8¢
+  ✓ REF      ¢=   -0.0  Δ=  -0.0  n=3485 g=36
+  ✓ ~koron   ¢= -112.7  Δ=  +2.3  n=57 g=8
+  ✓ ~M2      ¢= -210.0  Δ=  +0.0  n=416 g=28
+  ✓ ~m3      ¢= -302.3  Δ=  -2.3  n=279 g=30
+  ✓ ~P4      ¢= -490.0  Δ=  -0.0  n=245 g=28
+  ✓ ~P5      ¢= -710.0  Δ=  +0.0  n=83 g=25
+
+shekarchi: REF=441.16  ok=6/6  max|Δ|=34.1¢  shift=+877.8¢
+  ✓ REF      ¢=   +9.4  Δ=  +9.4  n=867 g=31
+  ✓ ~koron   ¢= -149.1  Δ= -34.1  n=65 g=14
+  ✓ ~M2      ¢= -212.3  Δ=  -2.3  n=637 g=31
+  ✓ ~m3      ¢= -309.4  Δ=  -9.4  n=105 g=21
+  ✓ ~P4      ¢= -490.0  Δ=  -0.0  n=69 g=14
+  ✓ ~P5      ¢= -705.3  Δ=  +4.7  n=238 g=22
+
+==== FINAL PERFECT ====
+slots=['REF', '~koron', '~M2', '~m3', '~P4', '~P5'] dropped=[]
+nariman    REF=266.19  6/6  max|Δ|=7.0¢  shift=+3.2¢
+alizadeh   REF=332.22  6/6  max|Δ|=2.3¢  shift=+386.8¢
+shekarchi  REF=441.16  6/6  max|Δ|=34.1¢  shift=+877.8¢
+Wrote /Users/ed/Developer/dastgaah/analysis/latch_report_final.json /Users/ed/Developer/dastgaah/analysis/latch_fingerprint_final.png

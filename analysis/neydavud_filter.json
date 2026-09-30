@@ -1,0 +1,452 @@
+{
+  "source": "https://www.youtube.com/playlist?list=OLAK5uy_m24pG0giA7K1Zp4f-YZkZbYIJJ8o2qATE",
+  "album": "Radif of Persian Music on Tar, Vol. 4 \u2014 Morteza Neydavud",
+  "seed_do": 262.4359130859375,
+  "kept": [
+    {
+      "track": "01 - Mahur_ Chaharmezrab",
+      "do": 261.090087890625,
+      "dur": 99.48444444444445,
+      "rms": 0.14206263422966003,
+      "crest": 6.1160485865336485,
+      "n_strikes": 210,
+      "strike_rate": 2.1108827734095783
+    },
+    {
+      "track": "02 - Mahur_ Daramad I",
+      "do": 261.69132932403386,
+      "dur": 42.595555555555556,
+      "rms": 0.16907329857349396,
+      "crest": 5.260265159139039,
+      "n_strikes": 102,
+      "strike_rate": 2.3946160267111853
+    },
+    {
+      "track": "03 - Mahur_ Daramad II",
+      "do": 261.39070860732943,
+      "dur": 45.52126984126984,
+      "rms": 0.1527981162071228,
+      "crest": 5.817562678256323,
+      "n_strikes": 84,
+      "strike_rate": 1.8452912296362418
+    },
+    {
+      "track": "04 - Mahur_ Daramad III",
+      "do": 262.4359130859375,
+      "dur": 73.36199546485261,
+      "rms": 0.161580428481102,
+      "crest": 5.546315532093325,
+      "n_strikes": 156,
+      "strike_rate": 2.12644161342011
+    },
+    {
+      "track": "05 - Mahur_ Avaz",
+      "do": 262.4359130859375,
+      "dur": 74.31401360544217,
+      "rms": 0.1598045527935028,
+      "crest": 4.965323057823882,
+      "n_strikes": 181,
+      "strike_rate": 2.435610609877556
+    },
+    {
+      "track": "06 - Mahur_ Sarang",
+      "do": 263.81378173828125,
+      "dur": 62.68081632653061,
+      "rms": 0.1831519603729248,
+      "crest": 3.6816775037387095,
+      "n_strikes": 156,
+      "strike_rate": 2.4887997499479058
+    },
+    {
+      "track": "08 - Mahur_ Dadafarin",
+      "do": 263.78173828125,
+      "dur": 99.29868480725624,
+      "rms": 0.16687573492527008,
+      "crest": 4.326979907984194,
+      "n_strikes": 208,
+      "strike_rate": 2.094690381889131
+    },
+    {
+      "track": "10 - Mahur_ Kharazmi",
+      "do": 266.473388671875,
+      "dur": 44.24417233560091,
+      "rms": 0.19719275832176208,
+      "crest": 2.7476951847846305,
+      "n_strikes": 105,
+      "strike_rate": 2.3731939023190214
+    },
+    {
+      "track": "12 - Mahur_ Haji Hasani",
+      "do": 268.2188831676136,
+      "dur": 167.19383219954648,
+      "rms": 0.20186230540275574,
+      "crest": 2.7550404340387997,
+      "n_strikes": 370,
+      "strike_rate": 2.213000295120956
+    },
+    {
+      "track": "14 - Mahur_ Dotayeki",
+      "do": 266.473388671875,
+      "dur": 40.343219954648525,
+      "rms": 0.19070680439472198,
+      "crest": 2.922919051279485,
+      "n_strikes": 106,
+      "strike_rate": 2.627455124285046
+    },
+    {
+      "track": "15 - Mahur_ Tarabangiz",
+      "do": 266.20946187459066,
+      "dur": 74.84807256235828,
+      "rms": 0.19102025032043457,
+      "crest": 2.8884063469881753,
+      "n_strikes": 177,
+      "strike_rate": 2.364790353853611
+    },
+    {
+      "track": "17 - Mahur_ Sorush",
+      "do": 267.8192138671875,
+      "dur": 68.11428571428571,
+      "rms": 0.17308831214904785,
+      "crest": 3.1909953373507935,
+      "n_strikes": 165,
+      "strike_rate": 2.4223993288590604
+    },
+    {
+      "track": "21 - Mahur_ Mahur-\u200ce Saghir",
+      "do": 269.70665164110136,
+      "dur": 52.83555555555556,
+      "rms": 0.18211929500102997,
+      "crest": 3.4193532075520454,
+      "n_strikes": 103,
+      "strike_rate": 1.9494448183041722
+    },
+    {
+      "track": "22 - Mahur_ Tusi",
+      "do": 270.5108642578125,
+      "dur": 81.86049886621315,
+      "rms": 0.2098030298948288,
+      "crest": 2.973838754278104,
+      "n_strikes": 154,
+      "strike_rate": 1.8812492243870442
+    },
+    {
+      "track": "23 - Mahur_ Shekaste I",
+      "do": 270.5108642578125,
+      "dur": 52.7891156462585,
+      "rms": 0.2460680603981018,
+      "crest": 2.5950921642192633,
+      "n_strikes": 111,
+      "strike_rate": 2.10270618556701
+    },
+    {
+      "track": "33 - Mahur_ Shekaste II",
+      "do": 270.5108642578125,
+      "dur": 128.81124716553288,
+      "rms": 0.13657096028327942,
+      "crest": 5.789917471869053,
+      "n_strikes": 292,
+      "strike_rate": 2.266882794984171
+    },
+    {
+      "track": "35 - Mahur_ Mokhber",
+      "do": 269.83795166015625,
+      "dur": 14.313650793650794,
+      "rms": 0.10494305938482285,
+      "crest": 6.3754317202412185,
+      "n_strikes": 31,
+      "strike_rate": 2.165764726756565
+    },
+    {
+      "track": "43 - Mahur_ Rak-\u200ce Keshmir",
+      "do": 260.92383889590997,
+      "dur": 212.56562358276645,
+      "rms": 0.13938646018505096,
+      "crest": 5.617571479830432,
+      "n_strikes": 391,
+      "strike_rate": 1.8394319524001337
+    }
+  ],
+  "skipped": [
+    {
+      "track": "09 - Mahur_ Khosravani",
+      "reasons": [
+        "Do shift/unstable (top=398.831686317116 drift=724.5778487893731)"
+      ],
+      "do": null,
+      "dur": 28.29206349206349,
+      "rms": 0.1719083935022354,
+      "crest": 3.4740405234383527,
+      "n_strikes": 59,
+      "strike_rate": 2.0853904847396767
+    },
+    {
+      "track": "11 - Mahur_ Delkash",
+      "reasons": [
+        "Do shift/unstable (top=402.1030106797725 drift=738.7199745744416)"
+      ],
+      "do": null,
+      "dur": 52.02285714285714,
+      "rms": 0.18695537745952606,
+      "crest": 2.9389645429358904,
+      "n_strikes": 108,
+      "strike_rate": 2.0760105448154658
+    },
+    {
+      "track": "13 - Mahur_ Khavarani",
+      "reasons": [
+        "Do shift/unstable (top=400.15505220121395 drift=730.3127579249856)"
+      ],
+      "do": null,
+      "dur": 47.21632653061224,
+      "rms": 0.20978103578090668,
+      "crest": 2.737894500030882,
+      "n_strikes": 123,
+      "strike_rate": 2.6050311203319505
+    },
+    {
+      "track": "16 - Mahur_ Nahib",
+      "reasons": [
+        "Do shift/unstable (top=528.2272965239958 drift=1211.0324357088818)"
+      ],
+      "do": null,
+      "dur": 57.525986394557826,
+      "rms": 0.19749945402145386,
+      "crest": 3.0224998347511103,
+      "n_strikes": 136,
+      "strike_rate": 2.3641489442215997
+    },
+    {
+      "track": "19 - Mahur_ Feyli",
+      "reasons": [
+        "Do shift/unstable (top=403.59486318811116 drift=745.1311837734889)"
+      ],
+      "do": null,
+      "dur": 48.772063492063495,
+      "rms": 0.21612529456615448,
+      "crest": 2.963380321296599,
+      "n_strikes": 119,
+      "strike_rate": 2.4399213705478022
+    },
+    {
+      "track": "20 - Mahur_ Zirafkand I",
+      "reasons": [
+        "Do shift/unstable (top=336.456298828125 drift=430.1447650949718)"
+      ],
+      "do": null,
+      "dur": 28.19918367346939,
+      "rms": 0.1947333663702011,
+      "crest": 3.2536527415146344,
+      "n_strikes": 65,
+      "strike_rate": 2.3050312644742936
+    },
+    {
+      "track": "24 - Mahur_ Nasirkhani",
+      "reasons": [
+        "Do shift/unstable (top=305.49767855940195 drift=263.03550949218294)"
+      ],
+      "do": null,
+      "dur": 68.23038548752834,
+      "rms": 0.21106529235839844,
+      "crest": 3.0582809577024603,
+      "n_strikes": 104,
+      "strike_rate": 1.524247580559396
+    },
+    {
+      "track": "25 - Mahur_ Shekaste Nasirkhani",
+      "reasons": [
+        "Do shift/unstable (top=408.02504172805794 drift=764.0310457858988)"
+      ],
+      "do": null,
+      "dur": 31.38031746031746,
+      "rms": 0.1890389770269394,
+      "crest": 3.2874088053521646,
+      "n_strikes": 57,
+      "strike_rate": 1.8164252185173195
+    },
+    {
+      "track": "26 - Mahur_ Moradkhani",
+      "reasons": [
+        "Do shift/unstable (top=306.84814453125 drift=270.6716404981573)"
+      ],
+      "do": null,
+      "dur": 45.49804988662132,
+      "rms": 0.23542876541614532,
+      "crest": 2.6763304354614172,
+      "n_strikes": 81,
+      "strike_rate": 1.7802960830595516
+    },
+    {
+      "track": "27 - Mahur_ Abol",
+      "reasons": [
+        "Do shift/unstable (top=365.04851078041725 drift=571.3476421550466)"
+      ],
+      "do": null,
+      "dur": 23.299773242630387,
+      "rms": 0.24173802137374878,
+      "crest": 2.584007509437146,
+      "n_strikes": 49,
+      "strike_rate": 2.1030247586421673
+    },
+    {
+      "track": "28 - Mahur_ Bastenegar",
+      "reasons": [
+        "Do shift/unstable (top=418.50399041914375 drift=807.9314634896792)"
+      ],
+      "do": null,
+      "dur": 19.909659863945578,
+      "rms": 0.17901794612407684,
+      "crest": 3.3062381910586947,
+      "n_strikes": 47,
+      "strike_rate": 2.360663131423573
+    },
+    {
+      "track": "29 - Mahur_ Zangule I",
+      "reasons": [
+        "Do shift/unstable (top=418.7774073101142 drift=809.0621434482864)"
+      ],
+      "do": null,
+      "dur": 16.77496598639456,
+      "rms": 0.13744373619556427,
+      "crest": 3.79716844432541,
+      "n_strikes": 44,
+      "strike_rate": 2.622956138074228
+    },
+    {
+      "track": "30 - Mahur_ Naghme",
+      "reasons": [
+        "Do shift/unstable (top=348.5687255859375 drift=491.37356872433173)"
+      ],
+      "do": null,
+      "dur": 11.295056689342404,
+      "rms": 0.14115986227989197,
+      "crest": 3.9797767948002667,
+      "n_strikes": 17,
+      "strike_rate": 1.5050831941410767
+    },
+    {
+      "track": "31 - Mahur_ Zirafkand II",
+      "reasons": [
+        "Do shift/unstable (top=351.2603759765625 drift=504.69081938432845)"
+      ],
+      "do": null,
+      "dur": 37.95156462585034,
+      "rms": 0.16694781184196472,
+      "crest": 3.5180379157419472,
+      "n_strikes": 81,
+      "strike_rate": 2.1342993575771483
+    },
+    {
+      "track": "32 - Mahur_ Neyriz-\u200ce Saghir",
+      "reasons": [
+        "Do shift/unstable (top=340.4937744140625 drift=450.7959131336394)"
+      ],
+      "do": null,
+      "dur": 46.47328798185941,
+      "rms": 0.1809912770986557,
+      "crest": 3.3076241060850817,
+      "n_strikes": 105,
+      "strike_rate": 2.2593624113918125
+    },
+    {
+      "track": "34 - Mahur_ Araq",
+      "reasons": [
+        "Do shift/unstable (top=540.9543434735015 drift=1252.250011770256)"
+      ],
+      "do": null,
+      "dur": 46.12498866213152,
+      "rms": 0.1363583505153656,
+      "crest": 5.185255059216552,
+      "n_strikes": 106,
+      "strike_rate": 2.298103545920775
+    },
+    {
+      "track": "36 - Mahur_ Hazin",
+      "reasons": [
+        "Do shift/unstable (top=454.38844472535516 drift=950.3531852480246)"
+      ],
+      "do": null,
+      "dur": 26.10938775510204,
+      "rms": 0.11149030178785324,
+      "crest": 6.096294600811734,
+      "n_strikes": 62,
+      "strike_rate": 2.374624812406203
+    },
+    {
+      "track": "37 - Mahur_ Zangule II",
+      "reasons": [
+        "Do shift/unstable (top=409.4016199835326 drift=769.8619820927341)"
+      ],
+      "do": null,
+      "dur": 56.17922902494331,
+      "rms": 0.12246949970722198,
+      "crest": 5.721714476380403,
+      "n_strikes": 104,
+      "strike_rate": 1.851218000051665
+    },
+    {
+      "track": "38 - Mahur_ Rak I",
+      "reasons": [
+        "Do shift/unstable (top=515.7091922609474 drift=1169.5111221405516)"
+      ],
+      "do": null,
+      "dur": 25.157369614512472,
+      "rms": 0.1306663304567337,
+      "crest": 5.325649180030241,
+      "n_strikes": 62,
+      "strike_rate": 2.4644865878280933
+    },
+    {
+      "track": "39 - Mahur_ Rak-\u200ce Saghir",
+      "reasons": [
+        "Do shift/unstable (top=516.1296811186371 drift=1170.9221266815969)"
+      ],
+      "do": null,
+      "dur": 47.03056689342404,
+      "rms": 0.15658235549926758,
+      "crest": 4.749417970777611,
+      "n_strikes": 98,
+      "strike_rate": 2.0837511957293176
+    },
+    {
+      "track": "40 - Mahur_ Rak II",
+      "reasons": [
+        "Do shift/unstable (top=411.33185513848593 drift=778.0051737265882)"
+      ],
+      "do": null,
+      "dur": 80.56018140589569,
+      "rms": 0.16784562170505524,
+      "crest": 4.450345523280673,
+      "n_strikes": 139,
+      "strike_rate": 1.7254181603646124
+    },
+    {
+      "track": "41 - Mahur_ Rak-\u200ce Abdollah",
+      "reasons": [
+        "Do shift/unstable (top=646.9004667312752 drift=1561.8943131998467)"
+      ],
+      "do": null,
+      "dur": 48.9578231292517,
+      "rms": 0.18235601484775543,
+      "crest": 4.024762486081328,
+      "n_strikes": 110,
+      "strike_rate": 2.246831925300133
+    },
+    {
+      "track": "42 - Mahur_ Rak-\u200ce Hendi",
+      "reasons": [
+        "Do shift/unstable (top=615.6969412743658 drift=1476.3062905052784)"
+      ],
+      "do": null,
+      "dur": 46.914467120181406,
+      "rms": 0.12583164870738983,
+      "crest": 5.7628608906797805,
+      "n_strikes": 94,
+      "strike_rate": 2.0036463327868343
+    }
+  ],
+  "missing_download": [
+    "07 Goshayesh",
+    "18 Azarbayejan"
+  ],
+  "median_do": 266.34142527323286
+}

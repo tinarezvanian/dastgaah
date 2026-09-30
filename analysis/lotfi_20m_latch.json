@@ -1,0 +1,71 @@
+{
+  "ref": 326.29,
+  "shift_cents": 352.4380783988534,
+  "n_ok": 5,
+  "max_abs_delta": 6.258973696512044,
+  "n_strikes": 2665,
+  "window": "first 20 min (E-tuned modality; CD retunes ~30m)",
+  "source": "https://www.youtube.com/watch?v=M5OQyDJZybs",
+  "details": [
+    {
+      "label": "REF",
+      "template_cents": 0.0,
+      "ok": true,
+      "matched_hz": 326.49254789611507,
+      "matched_cents": 1.0743480404146069,
+      "delta_cents": 1.0743480404146069,
+      "n": 991,
+      "gushehs": 1
+    },
+    {
+      "label": "~koron",
+      "template_cents": -115.0,
+      "ok": false,
+      "matched_hz": null,
+      "matched_cents": null,
+      "delta_cents": null,
+      "n": 0,
+      "gushehs": 0
+    },
+    {
+      "label": "~M2",
+      "template_cents": -210.0,
+      "ok": true,
+      "matched_hz": 289.74199796977797,
+      "matched_cents": -205.66314628837287,
+      "delta_cents": 4.336853711627128,
+      "n": 124,
+      "gushehs": 1
+    },
+    {
+      "label": "~m3",
+      "template_cents": -300.0,
+      "ok": true,
+      "matched_hz": 273.57847657926095,
+      "matched_cents": -305.04004848604956,
+      "delta_cents": -5.040048486049557,
+      "n": 182,
+      "gushehs": 1
+    },
+    {
+      "label": "~P4",
+      "template_cents": -490.0,
+      "ok": true,
+      "matched_hz": 244.9700927734375,
+      "matched_cents": -496.25897369651204,
+      "delta_cents": -6.258973696512044,
+      "n": 88,
+      "gushehs": 1
+    },
+    {
+      "label": "~P5",
+      "template_cents": -710.0,
+      "ok": true,
+      "matched_hz": 217.24182784163855,
+      "matched_cents": -704.2234391223758,
+      "delta_cents": 5.776560877624206,
+      "n": 864,
+      "gushehs": 1
+    }
+  ]
+}

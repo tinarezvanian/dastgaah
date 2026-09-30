@@ -1,0 +1,201 @@
+{
+  "album": "Iranian Classical Music Radifs 1 - Mahoor, Shur",
+  "artist": "Hassan Kasaei",
+  "instrument": "setar",
+  "seed_do": 370.8,
+  "median_do": 370.7598426416748,
+  "kept": [
+    {
+      "track": "01 - Mahoor_Introduction",
+      "do": 366.18913212861855,
+      "n": 109
+    },
+    {
+      "track": "02 - Mahoor_Daramad",
+      "do": 373.2867610145222,
+      "n": 179
+    },
+    {
+      "track": "03 - Mahoor_Kereshmeh",
+      "do": 369.9942225855749,
+      "n": 218
+    },
+    {
+      "track": "04 - Mahoor_Harbi",
+      "do": 369.80069037373283,
+      "n": 124
+    },
+    {
+      "track": "05 - Mahoor_Neyriz",
+      "do": 370.58386727127026,
+      "n": 173
+    },
+    {
+      "track": "08 - Mahoor_Rak-e Abdollah,Mehdi Zarrabi",
+      "do": 366.21600168900665,
+      "n": 186
+    },
+    {
+      "track": "09 - Mahoor_Goshayesh(Rast)",
+      "do": 370.8142487093005,
+      "n": 132
+    },
+    {
+      "track": "11 - Mahoor_Yatimak",
+      "do": 370.9939817341675,
+      "n": 226
+    },
+    {
+      "track": "12 - Mahoor_Hesar-e Mahur(Pas-e Mahur)",
+      "do": 370.70543657404914,
+      "n": 212
+    },
+    {
+      "track": "13 - Mahoor_Hazin",
+      "do": 371.1414024338188,
+      "n": 103
+    },
+    {
+      "track": "14 - Mahoor_Feyli(Panjgah)",
+      "do": 373.3648006385363,
+      "n": 132
+    },
+    {
+      "track": "15 - Mahoor_Majles Afrooz",
+      "do": 372.5800125855516,
+      "n": 54
+    },
+    {
+      "track": "16 - Mahoor_Shekasteh,Ouje shekasteh",
+      "do": 373.4557076785037,
+      "n": 85
+    },
+    {
+      "track": "17 - Mahoor_Qarebaghi",
+      "do": 373.858635010274,
+      "n": 122
+    },
+    {
+      "track": "18 - Mahoor_Busalik",
+      "do": 372.4773097676622,
+      "n": 153
+    },
+    {
+      "track": "19 - Mahoor_Chaharmezrab-e Delkash",
+      "do": 372.3873477222531,
+      "n": 204
+    },
+    {
+      "track": "20 - Mahoor_Shahr-e Ashub",
+      "do": 377.2777673152325,
+      "n": 28
+    },
+    {
+      "track": "21 - Mahoor_Qaracheh,Ruhol Arvah",
+      "do": 374.10396032656945,
+      "n": 113
+    },
+    {
+      "track": "22 - Mahoor_Razavi,Ruhol Arvah",
+      "do": 373.3212751295705,
+      "n": 91
+    },
+    {
+      "track": "23 - Mahoor_Javadkhani,Forud",
+      "do": 371.9102848591573,
+      "n": 152
+    },
+    {
+      "track": "24 - Mahoor_Majles Afrooz(Noi Digar)",
+      "do": 371.1943468300907,
+      "n": 122
+    },
+    {
+      "track": "25 - Mahoor_Mahur-e Saghir",
+      "do": 371.1238861215005,
+      "n": 100
+    },
+    {
+      "track": "26 - Mahoor_Mohayyar",
+      "do": 369.54562939597406,
+      "n": 43
+    },
+    {
+      "track": "27 - Mahoor_Rak(Hendi)",
+      "do": 371.3056293032041,
+      "n": 84
+    },
+    {
+      "track": "29 - Mahoor_Safir-e Rak",
+      "do": 367.6342449935571,
+      "n": 56
+    },
+    {
+      "track": "30 - Mahoor_Rak-e Keshmir(Kereshmeh)",
+      "do": 362.0141486133779,
+      "n": 54
+    },
+    {
+      "track": "31 - Mahoor_Masnavi,Rak-e Forud",
+      "do": 366.83358718918583,
+      "n": 202
+    },
+    {
+      "track": "34 - Mahoor_Gharai,Forud",
+      "do": 369.9480057923617,
+      "n": 183
+    },
+    {
+      "track": "35 - Mahoor_Azerbaijani(Moradkhani)",
+      "do": 368.06415859543006,
+      "n": 183
+    },
+    {
+      "track": "36 - Mahoor_Joghatai",
+      "do": 370.1371264498657,
+      "n": 98
+    },
+    {
+      "track": "37 - Mahoor_Toosi",
+      "do": 371.4971264079719,
+      "n": 117
+    },
+    {
+      "track": "38 - Mahoor_Baqdadi(Nasirkhani)",
+      "do": 367.7102132386853,
+      "n": 181
+    },
+    {
+      "track": "40 - Mahoor_Saghi Nameh",
+      "do": 368.2692490261368,
+      "n": 48
+    },
+    {
+      "track": "41 - Mahoor_Sufi Nameh",
+      "do": 365.8152954059782,
+      "n": 115
+    },
+    {
+      "track": "42 - Mahoor_Shahnameh Khani",
+      "do": 366.2138970807137,
+      "n": 184
+    },
+    {
+      "track": "43 - Mahoor_Masnavi",
+      "do": 367.2507850666559,
+      "n": 263
+    }
+  ],
+  "skipped": [
+    "06 - Mahoor_Gusheh-ye Neyriz",
+    "07 - Mahoor_Dad",
+    "10 - Mahoor_Naghmeh-ye Goshayesh",
+    "28 - Mahoor_Sepehr",
+    "32 - Mahoor_Nahib",
+    "33 - Mahoor_Araq,Majosli",
+    "39 - Mahoor_Khorramabadi"
+  ],
+  "skipped_shur": 11,
+  "playlist": "https://www.youtube.com/playlist?list=OLAK5uy_kombsv6vIFDKsGMN4lgrLVU7A__TbZQYs",
+  "note": "Mahoor only (1\u201343); skip Shur. Instrument: setar."
+}

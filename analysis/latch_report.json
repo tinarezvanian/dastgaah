@@ -1,0 +1,286 @@
+{
+  "nariman_template": {
+    "ref": 265.7,
+    "cents": [
+      0.0,
+      -115.2,
+      -218.5,
+      -484.0,
+      -711.1,
+      -798.8,
+      -928.6
+    ],
+    "labels": [
+      "REF",
+      "~koron",
+      "~M2",
+      "~P4",
+      "~P5",
+      "~P5-m6",
+      "~M6"
+    ]
+  },
+  "albums": {
+    "nariman": {
+      "ref": 265.7,
+      "latched": 6,
+      "score": 27.770643633771122,
+      "n_tracks": 20,
+      "n_strikes": 6299,
+      "degrees": [
+        {
+          "label": "REF",
+          "template_cents": 0.0,
+          "expect_hz": 265.7,
+          "n": 1202,
+          "gushehs": 20,
+          "frac": 1.0,
+          "matched_hz": 265.48502682627793,
+          "delta_cents": -1.4012778203703795,
+          "ok": true
+        },
+        {
+          "label": "~koron",
+          "template_cents": -115.2,
+          "expect_hz": 248.595163373803,
+          "n": 318,
+          "gushehs": 18,
+          "frac": 0.85,
+          "matched_hz": 250.323486328125,
+          "delta_cents": 11.994514604559043,
+          "ok": true
+        },
+        {
+          "label": "~M2",
+          "template_cents": -218.5,
+          "expect_hz": 234.19574988825508,
+          "n": 294,
+          "gushehs": 18,
+          "frac": 0.9,
+          "matched_hz": 234.17502887442126,
+          "delta_cents": -0.15318173690718595,
+          "ok": true
+        },
+        {
+          "label": "~P4",
+          "template_cents": -484.0,
+          "expect_hz": 200.89823572786085,
+          "n": 1392,
+          "gushehs": 20,
+          "frac": 1.0,
+          "matched_hz": 199.209063764434,
+          "delta_cents": -14.61792572064735,
+          "ok": true
+        },
+        {
+          "label": "~P5",
+          "template_cents": -711.1,
+          "expect_hz": 176.2001184975131,
+          "n": 757,
+          "gushehs": 18,
+          "frac": 0.9,
+          "matched_hz": 175.64288262113055,
+          "delta_cents": -5.483732949531941,
+          "ok": true
+        },
+        {
+          "label": "~P5-m6",
+          "template_cents": -798.8,
+          "expect_hz": 167.49657102667345,
+          "n": 754,
+          "gushehs": 18,
+          "frac": 0.9,
+          "matched_hz": 166.91953399623145,
+          "delta_cents": -5.974515767162529,
+          "ok": true
+        },
+        {
+          "label": "~M6",
+          "template_cents": -928.6,
+          "expect_hz": 155.39767237545766,
+          "n": 81,
+          "gushehs": 14,
+          "frac": 0.3,
+          "matched_hz": 159.6626746375112,
+          "delta_cents": 46.87462757151695,
+          "ok": false
+        }
+      ],
+      "shift_vs_nariman_cents": 0.0
+    },
+    "alizadeh": {
+      "ref": 435.5429034395198,
+      "latched": 6,
+      "score": 26.447961486765315,
+      "n_tracks": 36,
+      "n_strikes": 6191,
+      "degrees": [
+        {
+          "label": "REF",
+          "template_cents": 0.0,
+          "expect_hz": 435.5429034395198,
+          "n": 576,
+          "gushehs": 33,
+          "frac": 0.9166666666666666,
+          "matched_hz": 442.45250706742183,
+          "delta_cents": 27.249317894916057,
+          "ok": true
+        },
+        {
+          "label": "~koron",
+          "template_cents": -115.2,
+          "expect_hz": 407.50417477172726,
+          "n": 230,
+          "gushehs": 27,
+          "frac": 0.5833333333333334,
+          "matched_hz": 416.4860890774071,
+          "delta_cents": 37.74416392851012,
+          "ok": true
+        },
+        {
+          "label": "~M2",
+          "template_cents": -218.5,
+          "expect_hz": 383.9002517106745,
+          "n": 399,
+          "gushehs": 31,
+          "frac": 0.6944444444444444,
+          "matched_hz": 374.1756002810271,
+          "delta_cents": -44.41922587412773,
+          "ok": false
+        },
+        {
+          "label": "~P4",
+          "template_cents": -484.0,
+          "expect_hz": 329.318031180992,
+          "n": 3521,
+          "gushehs": 36,
+          "frac": 1.0,
+          "matched_hz": 331.61172590425446,
+          "delta_cents": 12.016218976921266,
+          "ok": true
+        },
+        {
+          "label": "~P5",
+          "template_cents": -711.1,
+          "expect_hz": 288.83218365372335,
+          "n": 521,
+          "gushehs": 29,
+          "frac": 0.75,
+          "matched_hz": 294.22472609660866,
+          "delta_cents": 32.02438436691227,
+          "ok": true
+        },
+        {
+          "label": "~P5-m6",
+          "template_cents": -798.8,
+          "expect_hz": 274.5650841592816,
+          "n": 316,
+          "gushehs": 30,
+          "frac": 0.8333333333333334,
+          "matched_hz": 278.6372144663734,
+          "delta_cents": 25.48773926563399,
+          "ok": true
+        },
+        {
+          "label": "~M6",
+          "template_cents": -928.6,
+          "expect_hz": 254.73222963549154,
+          "n": 244,
+          "gushehs": 28,
+          "frac": 0.7777777777777778,
+          "matched_hz": 249.77292147549716,
+          "delta_cents": -34.03731236055967,
+          "ok": true
+        }
+      ],
+      "shift_vs_nariman_cents": 855.6199339409051
+    },
+    "shekarchi": {
+      "ref": 577.3119255478272,
+      "latched": 6,
+      "score": 23.607594552322254,
+      "n_tracks": 33,
+      "n_strikes": 5606,
+      "degrees": [
+        {
+          "label": "REF",
+          "template_cents": 0.0,
+          "expect_hz": 577.3119255478272,
+          "n": 770,
+          "gushehs": 28,
+          "frac": 0.8181818181818182,
+          "matched_hz": 586.724957333771,
+          "delta_cents": 28.000000000000167,
+          "ok": true
+        },
+        {
+          "label": "~koron",
+          "template_cents": -115.2,
+          "expect_hz": 540.1466031208389,
+          "n": 167,
+          "gushehs": 22,
+          "frac": 0.36363636363636365,
+          "matched_hz": 525.4781212800449,
+          "delta_cents": -47.664395780501636,
+          "ok": false
+        },
+        {
+          "label": "~M2",
+          "template_cents": -218.5,
+          "expect_hz": 508.859613560805,
+          "n": 1065,
+          "gushehs": 28,
+          "frac": 0.8181818181818182,
+          "matched_hz": 511.9808508892978,
+          "delta_cents": 10.586588923364332,
+          "ok": true
+        },
+        {
+          "label": "~P4",
+          "template_cents": -484.0,
+          "expect_hz": 436.5109044306083,
+          "n": 873,
+          "gushehs": 31,
+          "frac": 0.9393939393939394,
+          "matched_hz": 442.7668861950317,
+          "delta_cents": 24.63556231423803,
+          "ok": true
+        },
+        {
+          "label": "~P5",
+          "template_cents": -711.1,
+          "expect_hz": 382.8469314699082,
+          "n": 668,
+          "gushehs": 31,
+          "frac": 0.9393939393939394,
+          "matched_hz": 390.289306640625,
+          "delta_cents": 33.33148975485756,
+          "ok": true
+        },
+        {
+          "label": "~P5-m6",
+          "template_cents": -798.8,
+          "expect_hz": 363.9358974108666,
+          "n": 112,
+          "gushehs": 22,
+          "frac": 0.6363636363636364,
+          "matched_hz": 368.756103515625,
+          "delta_cents": 22.779081289568126,
+          "ok": true
+        },
+        {
+          "label": "~M6",
+          "template_cents": -928.6,
+          "expect_hz": 337.64745752625464,
+          "n": 71,
+          "gushehs": 14,
+          "frac": 0.3333333333333333,
+          "matched_hz": 331.072998046875,
+          "delta_cents": -34.04201185597606,
+          "ok": true
+        }
+      ],
+      "shift_vs_nariman_cents": 1343.4633595379853
+    }
+  }
+}

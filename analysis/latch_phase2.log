@@ -1,0 +1,91 @@
+Building Nariman absolute-Hz template:
+  tmpl REF        265.5 Hz  (   -1.3¢)  n=1194 g=20/20
+  tmpl ~koron     250.4 Hz  ( -102.5¢)  n=302 g=17/20
+  tmpl ~M2        234.2 Hz  ( -218.5¢)  n=219 g=18/20
+  tmpl ~P4        198.7 Hz  ( -503.0¢)  n=1387 g=20/20
+  tmpl ~P5        175.6 Hz  ( -717.4¢)  n=723 g=18/20
+  tmpl ~P5-m6     166.6 Hz  ( -808.3¢)  n=649 g=18/20
+  tmpl ~M6        159.9 Hz  ( -879.4¢)  n=158 g=17/20
+
+nariman: REF=265.49 Hz  scale=×1.0000  ok=5/7  max|Δ|=70.2¢
+  ✓ REF      matched=  265.5  ¢=   +0.0  Δ=  +1.3  n=1192 g=20
+  ✓ ~koron   matched=  250.4  ¢= -101.2  Δ=  +1.3  n=302 g=17
+  ✗ ~M2      matched=  226.2  ¢= -277.2  Δ= -58.7  n=430 g=17
+  ✓ ~P4      matched=  201.0  ¢= -481.7  Δ= +21.3  n=1386 g=20
+  ✓ ~P5      matched=  175.6  ¢= -716.1  Δ=  +1.3  n=723 g=18
+  ✓ ~P5-m6   matched=  167.7  ¢= -795.9  Δ= +12.5  n=636 g=18
+  ✗ ~M6      matched=  166.4  ¢= -809.2  Δ= +70.2  n=651 g=18
+
+alizadeh: REF=448.37 Hz  scale=×1.6888  ok=6/7  max|Δ|=52.5¢
+  ✓ REF      matched=  443.2  ¢=  -20.0  Δ= -18.7  n=561 g=33
+  ✓ ~koron   matched=  416.5  ¢= -127.8  Δ= -25.3  n=220 g=24
+  ✓ ~M2      matched=  392.0  ¢= -232.7  Δ= -14.2  n=61 g=13
+  ✓ ~P4      matched=  332.1  ¢= -519.5  Δ= -16.4  n=3485 g=36
+  ✓ ~P5      matched=  296.9  ¢= -713.9  Δ=  +3.6  n=405 g=28
+  ✓ ~P5-m6   matched=  278.1  ¢= -827.0  Δ= -18.7  n=279 g=30
+  ✗ ~M6      matched=  278.1  ¢= -826.9  Δ= +52.5  n=279 g=30
+
+shekarchi: REF=439.91 Hz  scale=×1.6569  ok=6/7  max|Δ|=23.6¢
+  ✓ REF      matched=  443.9  ¢=  +15.6  Δ= +16.9  n=867 g=31
+  ✗ ~koron   matched=  413.3  ¢= -107.9  Δ=  -5.4  n=2 g=2
+  ✓ ~M2      matched=  390.0  ¢= -208.3  Δ= +10.2  n=637 g=31
+  ✓ ~P4      matched=  332.2  ¢= -486.2  Δ= +16.9  n=69 g=14
+  ✓ ~P5      matched=  294.6  ¢= -693.9  Δ= +23.6  n=241 g=23
+  ✓ ~P5-m6   matched=  274.9  ¢= -813.7  Δ=  -5.4  n=7 g=5
+  ✓ ~M6      matched=  261.5  ¢= -900.3  Δ= -20.9  n=35 g=14
+
+>>> dropping '~M6' to seek common perfect latch
+
+alizadeh: REF=445.79 Hz  scale=×1.6791  ok=6/6  max|Δ|=14.7¢
+  ✓ REF      matched=  442.9  ¢=  -11.1  Δ=  -9.8  n=561 g=33
+  ✓ ~koron   matched=  416.7  ¢= -116.7  Δ= -14.2  n=220 g=24
+  ✓ ~M2      matched=  392.2  ¢= -221.6  Δ=  -3.1  n=61 g=13
+  ✓ ~P4      matched=  331.9  ¢= -510.6  Δ=  -7.5  n=3488 g=36
+  ✓ ~P5      matched=  297.1  ¢= -702.8  Δ= +14.7  n=405 g=28
+  ✓ ~P5-m6   matched=  279.0  ¢= -811.4  Δ=  -3.1  n=279 g=30
+
+shekarchi: REF=387.98 Hz  scale=×1.4613  ok=5/6  max|Δ|=49.8¢
+  ✓ REF      matched=  390.5  ¢=  +11.1  Δ= +12.5  n=637 g=31
+  ✓ ~koron   matched=  368.8  ¢=  -87.8  Δ= +14.7  n=105 g=21
+  ✗ ~M2      matched=  332.3  ¢= -268.3  Δ= -49.8  n=69 g=14
+  ✓ ~P4      matched=  294.9  ¢= -475.0  Δ= +28.0  n=238 g=23
+  ✓ ~P5      matched=  261.5  ¢= -682.8  Δ= +34.7  n=35 g=14
+  ✓ ~P5-m6   matched=  245.0  ¢= -795.9  Δ= +12.5  n=24 g=6
+
+>>> dropping '~M2' to seek common perfect latch
+
+alizadeh: REF=445.53 Hz  scale=×1.6781  ok=5/5  max|Δ|=14.7¢
+  ✓ REF      matched=  443.3  ¢=   -8.9  Δ=  -7.5  n=561 g=33
+  ✓ ~koron   matched=  416.5  ¢= -116.7  Δ= -14.2  n=220 g=24
+  ✓ ~P4      matched=  332.2  ¢= -508.4  Δ=  -5.3  n=3485 g=36
+  ✓ ~P5      matched=  296.9  ¢= -702.8  Δ= +14.7  n=405 g=28
+  ✓ ~P5-m6   matched=  278.1  ¢= -815.9  Δ=  -7.5  n=279 g=30
+
+shekarchi: REF=391.63 Hz  scale=×1.4751  ok=5/5  max|Δ|=10.2¢
+  ✓ REF      matched=  391.6  ¢=   -0.0  Δ=  +1.3  n=636 g=31
+  ✓ ~koron   matched=  368.9  ¢= -103.4  Δ=  -0.9  n=105 g=21
+  ✓ ~P4      matched=  294.6  ¢= -492.8  Δ= +10.2  n=241 g=23
+  ✓ ~P5      matched=  259.6  ¢= -711.7  Δ=  +5.8  n=34 g=14
+  ✓ ~P5-m6   matched=  245.1  ¢= -811.4  Δ=  -3.1  n=24 g=6
+
+alizadeh [constrained near 331.6]: REF=339.87 Hz  scale=×1.2801  ok=3/5  max|Δ|=61.3¢
+  ✓ REF      matched=  332.1  ¢=  -40.0  Δ= -38.7  n=3485 g=36
+  ✗ ~koron   matched=  331.9  ¢=  -41.2  Δ= +61.3  n=3488 g=36
+  ✓ ~P4      matched=  250.5  ¢= -528.4  Δ= -25.3  n=245 g=28
+  ✓ ~P5      matched=  220.5  ¢= -749.4  Δ= -32.0  n=83 g=25
+  ✗ ~P5-m6   matched=  220.2  ¢= -751.4  Δ= +56.9  n=83 g=25
+
+shekarchi [constrained near 442.8]: REF=439.91 Hz  scale=×1.6569  ok=4/5  max|Δ|=23.6¢
+  ✓ REF      matched=  443.9  ¢=  +15.6  Δ= +16.9  n=867 g=31
+  ✗ ~koron   matched=  413.3  ¢= -107.9  Δ=  -5.4  n=2 g=2
+  ✓ ~P4      matched=  332.2  ¢= -486.2  Δ= +16.9  n=69 g=14
+  ✓ ~P5      matched=  294.6  ¢= -693.9  Δ= +23.6  n=241 g=23
+  ✓ ~P5-m6   matched=  274.9  ¢= -813.7  Δ=  -5.4  n=7 g=5
+
+==== FINAL ====
+perfect=True  slots=5  dropped=['~M6', '~M2']
+nariman    REF=265.49  ok=5/5  max|Δ|=21.3¢  shift=+0.0¢  [lock]
+alizadeh   REF=445.53  ok=5/5  max|Δ|=14.7¢  shift=+894.9¢  [scale-opt]
+shekarchi  REF=391.63  ok=5/5  max|Δ|=10.2¢  shift=+671.6¢  [scale-opt]
+
+Wrote /Users/ed/Developer/dastgaah/analysis/latch_report_v2.json and /Users/ed/Developer/dastgaah/analysis/latch_fingerprint_v2.png
